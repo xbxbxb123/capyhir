@@ -1,0 +1,8 @@
+{
+  "name" : "pink",
+  "category" : "capyhirpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "pink.png"
+  }
+}

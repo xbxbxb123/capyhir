@@ -1,0 +1,8 @@
+{
+  "name" : "mint",
+  "category" : "capyhirpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "mint.png"
+  }
+}

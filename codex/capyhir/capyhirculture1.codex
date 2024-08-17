@@ -1,0 +1,15 @@
+{
+	"id" : "capyhirculture1",
+	"title" : "Capyhir horns",
+	"description" : "Part of a documentation of Capyhir Culture.",
+	"icon" : "capyhircover.png",
+	"contentPages" : [
+"Capyhir culture 1: Horns 
+Capyhir naturally grow horns. Unlike the horns of many species, Capyhir horns can both be cut without harm, and are made of living tissue capable of growing in branching patterns, like wood. Horns are culturally important to us Capyhir, Our ancestors carved their horns into intricate decorative shapes and made tools from our shed branches.", 
+"Due to the impracticality of making clothing, especially space suits, which can be worn while keeping ornate horns, most Capyhir in modern times cut their horns short or off entirely. To retain a part of our traditions and decorations, many Capyhir construct their suits with decorative artifical horns, or even their own horn cuttings. These may function as antennae, but are primarily decorative." 
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

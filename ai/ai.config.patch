@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/capyhir",
+		"value" : {
+			"aiFrames" : "capyhirAI.png",
+			"portraitFrames" : "portraits/capyhirportrait.png",
+			"staticFrames" : "staticcapyhir.png"	
+		}
+	}
+]

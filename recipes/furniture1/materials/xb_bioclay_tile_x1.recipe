@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "clay", "count" : 250 },
+    { "item" : "wire", "count" : 25 },
+    { "item" : "livingroot", "count" : 1 }
+  ],
+  "output" : { "item" : "xb_bioclay_tile", "count" : 500 },
+  "duration" : 0.04,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

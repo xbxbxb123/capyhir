@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 8
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "capyhirT6.png",
+      "position" : [-1, 3],
+      "fullbright" : true
+    },
+    {
+      "image" : "capyhirT6lit.png",
+      "position" : [-1, 3]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "capyhirT6blocks.png"
+}

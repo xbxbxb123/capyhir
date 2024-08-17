@@ -1,0 +1,29 @@
+{
+  "objectName" : "capyhirbannerlarge",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A large capyhir wallbanner from a capyhir academy.",
+  "shortdescription" : "Large capyhir Wall Banner",
+  "race" : "capyhir",
+  "apexDescription" : "This banner is large...",
+  "avianDescription" : "A large banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A large capyhir banner...",
+  "humanDescription" : "The capyhir banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "capyhirDescription" : "I am so happy to see the capyhir culture thrive",  
+  "inventoryIcon" : "capyhirbannerlargeicon.png",
+  "orientations" : [
+    {
+      "image" : "capyhirbannerlarge.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

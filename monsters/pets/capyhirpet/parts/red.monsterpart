@@ -1,0 +1,8 @@
+{
+  "name" : "red",
+  "category" : "capyhirpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "red.png"
+  }
+}

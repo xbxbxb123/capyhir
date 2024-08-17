@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 1000 }
+ 
+  ],
+  "output" : {
+    "item" : "capyhirmerchant",
+    "count" : 1
+  },
+  "duration" : 0.1,
+  "groups" : [ "inventorstable", "all" ]
+}

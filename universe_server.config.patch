@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/capyhir",
+		"value" : [
+		    "/ships/capyhir/capyhirt0.structure",
+			"/ships/capyhir/capyhirt1.structure",
+			"/ships/capyhir/capyhirt2.structure",
+			"/ships/capyhir/capyhirt3.structure",
+			"/ships/capyhir/capyhirt4.structure",
+			"/ships/capyhir/capyhirt5.structure",
+			"/ships/capyhir/capyhirt6.structure",
+			"/ships/capyhir/capyhirt7.structure",
+			"/ships/capyhir/capyhirt8.structure"
+		]
+	}
+]

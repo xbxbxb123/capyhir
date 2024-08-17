@@ -1,0 +1,36 @@
+[
+	{
+		"op": "add",
+		"path": "/beacon/capyhir",
+		"value": {
+			"default": [
+				"You called?",
+				"Is there something you need?",
+				"You wanted to talk?",
+				"Hi What's up?",
+				"Did you want something?"
+			],
+			"capyhir": [
+				"You called?",
+				"Is there something you need?",
+				"You wanted to talk?",
+				"Hi What's up?",
+				"You wanted something?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/capyhir",
+		"value": {
+			"default": [
+				"I thought this might be useful to you.",
+				"Here's a gift, for all your help.",
+				"I have something for you.",
+				"I made a gift for you.",
+				"Here's something for your troubles.",
+				"This is for you."
+			]
+		}
+	}
+]

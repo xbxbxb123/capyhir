@@ -1,0 +1,162 @@
+{
+  "kind" : "capyhir",
+	"charCreationTooltip" : {
+	"title" : "capyhir",
+	"subTitle" : "O2",
+	"description" : "A race of nomads that values exploration and knowledge. They resemble goats."
+  },
+  "nameGen" : [ "/species/capyhirmalenamegen.config:names", "/species/capyhirfemalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/capyhirhurt_male1.ogg", "/sfx/humanoid/capyhirhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Skin colour", "???", "Shirt colour", "Legwear colour", "CAPYHIR", "Personality" ],
+  "skull" : "/humanoid/capyhir/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+	
+  // Empty Hands
+      { "item" : "flagcapyhir" },
+	    
+// Anvil
+      { "item" : "capyhirtier1head" },
+      { "item" : "capyhirtier1chest" },
+      { "item" : "capyhirtier1pants" },
+      { "item" : "capyhirtier2head" },
+      { "item" : "capyhirtier2chest" },
+      { "item" : "capyhirtier2pants" },
+      { "item" : "capyhirsword" },
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+// Anvil2
+      { "item" : "capyhirtier3head" },
+      { "item" : "capyhirtier3chest" },
+      { "item" : "capyhirtier3pants" },
+      { "item" : "capyhirtier4head" },
+      { "item" : "capyhirtier4chest" },
+      { "item" : "capyhirtier4pants" },
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+// Anvil3
+      { "item" : "capyhirtier5ahead" },
+      { "item" : "capyhirtier5achest" },
+      { "item" : "capyhirtier5apants" },
+      { "item" : "capyhirtier6ahead" },
+      { "item" : "capyhirtier6achest" },
+      { "item" : "capyhirtier6apants" },
+      { "item" : "capyhirtier5mhead" },
+      { "item" : "capyhirtier5mchest" },
+      { "item" : "capyhirtier5mpants" },
+      { "item" : "capyhirtier6mhead" },
+      { "item" : "capyhirtier6mchest" },
+      { "item" : "capyhirtier6mpants" },
+      { "item" : "capyhirtier5shead" },
+      { "item" : "capyhirtier5schest" },
+      { "item" : "capyhirtier5spants" },
+      { "item" : "capyhirtier6shead" },
+      { "item" : "capyhirtier6schest" },
+      { "item" : "capyhirtier6spants" },
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+// Furniture Table 2
+      { "item" : "capyhirstoragelocker" },
+      { "item" : "capyhirshipdoor" },
+      { "item" : "capyhirshiphatch" },
+// Spinning Wheel
+      { "item" : "capyhiroutfit1chest" },
+      { "item" : "capyhiroutfit1legs" },
+      { "item" : "capyhiroutfit2chest" },
+      { "item" : "capyhiroutfit2legs" },
+      { "item" : "capyhiroutfit3chest" },
+      { "item" : "capyhiroutfit3legs" },
+      { "item" : "capyhiroutfit4chest" },
+      { "item" : "capyhiroutfit4legs" },
+// Special
+      { "item" : "capyhirmerchant" }  
+	  
+	  ]
+  },
+  "headOptionAsFacialhair" : false,
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : false,
+  "altOptionAsHairColor" : false,
+  "genders" : [
+    {
+       "name" : "male",
+      "image" : "/interface/title/capyhirmaleico.png",
+      "characterImage" : "/interface/title/capyhirmale.png",
+      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13" ],
+      "shirt" : [ "capyhiroutfit1chest", "capyhiroutfit2chest", "capyhiroutfit3chest", "capyhiroutfit4chest" ],
+      "pants" : [ "capyhiroutfit1legs", "capyhiroutfit2legs", "capyhiroutfit3legs", "capyhiroutfit4legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/capyhirfemico.png",
+      "characterImage" : "/interface/title/capyhirfemale.png",
+      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13" ],
+      "shirt" : [ "capyhiroutfit1chest", "capyhiroutfit2chest", "capyhiroutfit3chest", "capyhiroutfit4chest" ],
+      "pants" : [ "capyhiroutfit1legs", "capyhiroutfit2legs", "capyhiroutfit3legs", "capyhiroutfit4legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  //this is the fur color, includes hair
+  "bodyColor" : [
+
+    //Silver White
+    { "e0975c" : "D8E8E8", "a85636" : "A0B0B0", "6f2919" : "788888" },
+    //Bone
+    { "e0975c" : "F0F0E0", "a85636" : "B0B098", "6f2919" : "787870" },
+    //Slightly Different Blonde
+    { "e0975c" : "F8F0C0", "a85636" : "D0C088", "6f2919" : "989068" },
+    //Vanilla
+    { "e0975c" : "E8D0A8", "a85636" : "B89A70", "6f2919" : "807058" },
+    //Orange Cream
+    { "e0975c" : "E0B078", "a85636" : "B88758", "6f2919" : "906840" },
+    //Light Brown
+    { "e0975c" : "B09878", "a85636" : "886858", "6f2919" : "685048" },
+    //Reddish
+    { "e0975c" : "C88878", "a85636" : "986050", "6f2919" : "784838" },
+    //Light Pink
+    { "e0975c" : "F0D0D0", "a85636" : "D0A0B8", "6f2919" : "A87898" },
+    //Pastel Lavender
+    { "e0975c" : "F8C8F8", "a85636" : "E0A0E8", "6f2919" : "B078D0" },
+    //lighter Pastel Purple
+    { "e0975c" : "B8A0E8", "a85636" : "8870D0", "6f2919" : "6858A0" },
+    //Light Grey Blue
+    { "e0975c" : "A0A0C0", "a85636" : "787898", "6f2919" : "586070" },
+    //Lighter Blue
+    { "e0975c" : "B0D8E8", "a85636" : "88B0D0", "6f2919" : "6078A8" },
+    //Pastel Green
+    { "e0975c" : "C0D0A0", "a85636" : "90A868", "6f2919" : "788850" }
+  ],
+//This is actually the skin color
+  "undyColor" : [
+    //palest beige
+    { "f7e7b2" : "FFF8F0", "d9c189" : "FFE8D0", "a38d59" : "E8C0A8", "735e3a" : "C79F90" },
+    //White gold
+    { "f7e7b2" : "FFF8F0", "d9c189" : "F0D8C0", "a38d59" : "D0A890", "735e3a" : "B08878" },
+    //beige
+    { "f7e7b2" : "F0E8E0", "d9c189" : "D8C8B8", "a38d59" : "B89888", "735e3a" : "A08078" },
+    //ash 1
+    { "f7e7b2" : "E0D8D0", "d9c189" : "C8C0B8", "a38d59" : "B0A098", "735e3a" : "988880" },
+    //ash 2
+    { "f7e7b2" : "D8D0C8", "d9c189" : "B8B0B0", "a38d59" : "989088", "735e3a" : "807068" },
+    //ash 3
+    { "f7e7b2" : "C0B8B0", "d9c189" : "B0A098", "a38d59" : "908078", "735e3a" : "786860" }
+
+  ],
+  "hairColor" : [ "" ]
+}

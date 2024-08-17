@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/capyhir",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/capyhir",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

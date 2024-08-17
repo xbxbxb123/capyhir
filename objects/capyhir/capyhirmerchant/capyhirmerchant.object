@@ -1,0 +1,55 @@
+{
+  "objectName" : "capyhirmerchant",
+  "colonyTags" : ["capyhir", "commerce"],
+  "rarity" : "Common",
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/merchant.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Penguin Merchant",
+        "subtitle" : "He looks serious"
+      }
+    },
+    "buyFactor" : 1.0,
+    "sellFactor" : 0.2,
+    "items" : [
+      { "item" : ["bomb", 5] },
+      { "item" : "capyhirkittyhead" },
+      { "item" : "capyhirbannerlarge" },
+	  { "item" : "capyhirbannersmall" },
+      { "item" : "capyhirwoodchair" },
+      { "item" : "capyhirwooddoor" },
+	  { "item" : "capyhirwoodenbed" },
+	  { "item" : "capyhirwoodendesk" },	  
+	  { "item" : "spawnercapyhir" }	  
+    ]
+  },
+  "description" : "Is that a Penguin?",
+  "shortdescription" : "Penguin Merchant",
+  "race" : "capyhir",
+  "category" : "Merchant",
+  "price" : 1000,
+  
+  "printable" : false,
+  "unbreakable" : false,
+  "apexDescription" : "A silent penguin merchant. Unusual.",
+  "avianDescription" : "Who is this curious merchant?",
+  "floranDescription" : "Floran ssslightly ssscared by sssilent penguin.",
+  "glitchDescription" : "Concerned. This penguin seems unwilling to communicate.",
+  "humanDescription" : "If I kiss it, do you think it'll turn into a prince merchant?",
+  "hylotlDescription" : "This silent creature is not one of us.",
+  "novakidDescription" : "Don't see many penguin merchants round these parts",
+  "capyhirDescription" : "Cute",
+  "inventoryIcon" : "capyhirmerchanticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "capyhirmerchant.png:<color>.<frame>",
+      "imagePosition" : [-14, 0],
+      "frames" : 29,
+      "animationCycle" : 2,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

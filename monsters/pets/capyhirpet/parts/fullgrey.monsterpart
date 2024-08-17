@@ -1,0 +1,8 @@
+{
+  "name" : "fullgrey",
+  "category" : "capyhirpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "fullgrey.png"
+  }
+}

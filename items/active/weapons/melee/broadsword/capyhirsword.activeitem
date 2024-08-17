@@ -1,0 +1,28 @@
+{
+  "itemName" : "capyhirsword",
+  "price" : 500,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A test weapon?",
+  "shortdescription" : "capyhir Sword",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+  "inventoryIcon" : "capyhirsword.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "capyhirsword.png"
+  },
+  "animationCustom" : { },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "physical",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.89,
+    "baseDps" : 7
+  },
+  "altAbilityType" : "downstab",
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

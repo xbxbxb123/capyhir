@@ -1,0 +1,22 @@
+{
+	"id" : "capyhirdiary",
+	"title" : "Observation notes",
+	"description" : "An journal by a Capyhir Protector.",
+	"icon" : "capyhircover.png",
+	"contentPages" : [
+"Galactic Year XXYY, Day 234 
+I am the first Capyhir to join the Protectorate academy(1). I'm very excited to learn about human culture and knowledge! I've already read about human society from their public archives I was given, but I expect there will be a great many things which I will have to learn for myself. 
+I will be keeping this journal as a record of my experiences and discoveries, I hope that these words are useful to my successors.",
+"Galactic Year XXYY, Day 236
+The food! Humans might have more than 100 different foods! I should have expected that such a high population would lead to more cultural variety, but seeing just how it affects their world is remarkable. Their forms of art or entertainment appear to have a similarly impressive variety as well, I will write about this at a later date.",
+"Galactic Year XXYY, Day 237
+I have started attending a \"class\"(2)(3) about human history. It seems like most humans primarily work in ways related to maintaining their large population, and only a few each generation directly contribute to new discoveries and creations. This seems very strange to me, and yet it also seems that this is the dominant strategy for intelligent life, and that Capyhir like me are the exception.",
+"(1) An academy is an organized group within a society dedicated to education, often for the purpose of obtaining useful skills. Synonyms: College, University.
+(2)This use of the word class refers to a regularly scheduled event in which a person dedicated to teaching presents their knowledge to a large group of people. 
+(3)Humans sometimes use the same word to describe different things. For example, the word class can also mean a category." 
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

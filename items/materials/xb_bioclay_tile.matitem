@@ -1,0 +1,16 @@
+{
+  "itemName" : "xb_bioclay_tile",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "xb_bioclay_tile_item.png",
+  "shortdescription" : "Bioclay Tile",
+  "description" : "Artificial ceramic-like material used in Capyhir architecture",
+  "humanDescription" : "It reminds me of ancient clay and limestone stuff.",
+  "hylotlDescription" : "This fascinating material seems almost like a living coral.",
+  "glitchDescription" : "Uncertain. Is this clay?",
+  "floranDescription" : "Sssciencey mud wood.",
+  "novakidDescription" : "Looks sorta like the bricks they got back home.",
+
+  "materialId" : 7410
+}

@@ -1,0 +1,14 @@
+[
+	{
+		"op": "add",
+		"path": "/helpme/capyhir",
+		"value": {
+			"default": [
+				"Help!",
+				"Uh-oh.",
+				"Ow!",
+				"Make it stop!"
+			]
+		}
+	}
+]

@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "capyhirT1.png",
+      "position" : [9, 12],
+      "fullbright" : true
+    },
+    {
+      "image" : "capyhirT1lit.png",
+      "position" : [9, 12]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "capyhirT1blocks.png"
+}
