@@ -1,0 +1,24 @@
+{
+  "materialId" : 7411,
+  "materialName" : "xb_meteoriron",
+  "particleColor" : [111, 94, 74, 255],
+  "itemDrop" : "xb_meteoriron",
+  "description" : "Natural Iron alloy found in meteorites.",
+  "shortdescription" : "Meteoric Iron",
+  "glitchDescription" : "Perceptive. This rock is of extraterrestrial origin.",
+  "floranDescription" : "Floran like ssky rockss.",
+  "novakidDescription" : "These space rocks ain't like the ones on the ground.",
+  "footstepSound" : "/sfx/blocks/footstep_rock.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "xb_meteoriron.png",
+    "variants" : 8,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 1910
+  }
+}

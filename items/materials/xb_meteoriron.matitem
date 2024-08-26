@@ -1,0 +1,11 @@
+{
+  "itemName" : "xb_meteoriron",
+  "price" : 10,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "xb_meteoriron_item.png",
+  "shortdescription" : "Meteoric Iron",
+  "description" : "Natural Iron alloy found in meteorites",
+
+  "materialId" : 7411
+}
