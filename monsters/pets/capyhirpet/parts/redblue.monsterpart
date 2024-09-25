@@ -1,8 +1,9 @@
 {
-  "name" : "fullblack",
+  "name" : "redblue",
   "category" : "capyhirpet",
   "type" : "body",
+
   "frames" : {
-    "body" : "fullblack.png"
+    "body" : "redblue.png"
   }
 }

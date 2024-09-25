@@ -1,8 +1,0 @@
-{
-  "name" : "yellow",
-  "category" : "capyhirpet",
-  "type" : "body",
-  "frames" : {
-    "body" : "yellow.png"
-  }
-}

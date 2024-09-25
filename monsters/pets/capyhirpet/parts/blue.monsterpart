@@ -1,8 +1,0 @@
-{
-  "name" : "blue",
-  "category" : "capyhirpet",
-  "type" : "body",
-  "frames" : {
-    "body" : "blue.png"
-  }
-}
