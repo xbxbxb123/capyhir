@@ -1,0 +1,34 @@
+{
+  "objectName" : "skadvtesttable1",
+  "colonyTags" : ["skadvtest","commerce"],
+  "rarity" : "Common",
+  "description" : "A basic wooden table.",
+  "shortdescription" : "Wooden Table",
+  "race" : "skadvtest",
+  "category" : "furniture",
+  "price" : 15,
+
+  "apexDescription" : "A very simple wooden table.",
+  "avianDescription" : "The simplest of tables.",
+  "floranDescription" : "Sssimple wood table.",
+  "glitchDescription" : "Bored. A very simple table.",
+  "humanDescription" : "Not much to say about this table.",
+  "hylotlDescription" : "A table, very simple in every way.",
+  "novakidDescription" : "Just a table.",
+  "skadvtestDescription" : "Just a table.",
+
+  "inventoryIcon" : "skadvtesttable1icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "skadvtesttable1.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

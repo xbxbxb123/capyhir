@@ -1,0 +1,17 @@
+[
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+      "^cyan;My store is getting popular! Now is a good time to stock some high quality merchandise....",
+      "^cyan;Getting new things to sell helped my store last time! Can you help me do it again?"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+      "Just in time! Travelling merchant <target> arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide me with the new stock I require in exchange for my ^orange;<tradedItems>^white;. Could you ^green;take the goods to ^orange;<target>^white;?",
+      "Now to finish the task! <target>, a travelling merchant, has just arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> to trade. Can you ^green;find ^orange;<target>^green; and give <target.pronoun.object> our ^orange;<tradedItems>^green; in return for the goods we need?"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+      "Success! If you need a brand new <newItem>, my store is the place to come from now on! Thanks for your help.",
+      "Thanks to your delivery, I'm now able to sell this new <newItem>! If you want one, you know where to find me!"
+    ]
+  }
+]

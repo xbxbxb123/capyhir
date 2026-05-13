@@ -1,0 +1,49 @@
+[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestactivity",[
+        "went for a walk to <skadvtestpersonal>",
+        "took an excursion to <skadvtestpersonal>",
+        "took a short trip to <skadvtestpersonal>",
+        "went jogging to <skadvtestpersonal>"
+      ]
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestpersonal",[
+        "expand my emotional horizons",
+        "explore the area",
+        "think about life and stuff",
+        "get away from my troubles",
+        "burn a few calories",
+        "try and remember a weird dream I had",
+        "try and solve a difficult mental math problem",
+        "get over a recent break-up",
+        "stretch my legs"
+      ]
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestappreciation",[
+        "I'm impressed! Thank you so much!",
+        "I feel so much safer now, thank you! Take this gift for all your help.",
+        "You've helped make this planet just that bit safer!",
+        "Thanks! I'm sure they weren't up to any good.",
+        "Thank you! Hopefully this gift is enough to repay you.",
+        "Thanks! I'll surely feel less nervous around here now."
+      ]
+    ]
+  },
+
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+      "^cyan;I had an encounter with some <enemy> <earlier>.",
+      "^cyan;I overheard some <enemy> <earlier>."
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+      "I <skadvtestactivity> <earlier>, when ^orange;<enemy>^white; <crime1>. I'm feeling <reaction> and <justice1>. It happened near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <request>^white;?",
+      "I <overheard> some ^orange;<enemy>^white; who were near the ^orange;<spawnPoint>^white; <earlier>. <doubt> but I think they were <discussing> <discussion>. ^green;Could you go and <investigate>^white;?"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+      "You dealt with the <enemy>? <appreciation>",
+      "Did you find out what the <enemy> were up to? <skadvtestappreciation>"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+	{"op": "add", "path": "/tagCriteria/skadvtest", "value": {
+			"default": [
+				"Things have changed... Either you've messed things up, or I'm being haunted.",
+				"The arrangement of my house has changed, this isn't alright...",
+				"Has something moved in here? It feels off..."
+			]
+		}
+	},
+	{"op": "add", "path": "/enclosedArea/skadvtest", "value": {
+			"default": [
+				"My home could use some repairs...",
+				"Can you sort out the damage in here?",
+				"I need some repairs done!"
+			]
+		}
+	},
+	{"op": "add", "path": "/otherDeed/skadvtest", "value": {
+			"default": [
+				"I thought this was single tenancy!? I can't share my home!",
+				"Are you trying to have someone move in here?!",
+				"Why did you place another deed here?!"
+			]
+		}
+	},
+	{"op": "add","path": "/severe/skadvtest", "value": {
+			"default": [
+				"I can't live in these conditions!",
+				"Living here is pretty horrible right now...",
+				"It's impossible to live like this!"
+			]
+		}
+	},
+	{"op": "add", "path": "/final/skadvtest", "value": {
+			"default": [
+				"I've had enough of this!",
+				"That's it, I give up. Time to leave!",
+				"I give up, I'm moving out!"
+			]
+		}
+	}
+]

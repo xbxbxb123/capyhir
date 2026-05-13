@@ -1,0 +1,21 @@
+{
+  "itemName" : "skadvtestfossil2",
+  "rarity" : "Uncommon",
+  "itemTags" : ["fossil"],
+
+  "description" : "A fossilised skadvtest torso.",
+  "category" : "mediumFossil",
+
+  "shortdescription" : "skadvtest Torso",
+  "race" : "skadvtest",
+  "price" : 0,
+
+  "inventoryIcon" : "skadvtestfossil2icon.png",
+
+  "displayImage" : "/objects/fossils/humanoidfossils/fossilskadvtest/skadvtesttorsodisplay.png",
+  "displayoffset" :[0, 0],
+
+  "fossilSetName" : "skadvtestSkeleton",
+  "setIndex" : 2,
+  "setCount" : 3
+}

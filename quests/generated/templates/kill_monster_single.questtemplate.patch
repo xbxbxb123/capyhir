@@ -1,0 +1,52 @@
+[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestrumours",[
+        "smells fear",
+        "has lived for a hundred years",
+        "knows martial arts",
+        "can read your thoughts",
+        "is super intelligent and wears reading glasses",
+        "is awake all the time and doesn't know how to sleep",
+        "is constantly whispering the names of those next fated to die",
+        "instantly knows everything embarrassing you've ever done",
+        "knows how to do backflips",
+        "is the result of an experiment gone wrong",
+        "has returned from the dead",
+        "is from the future",
+        "can turn inside out at will",
+        "has a preference for eating brave adventurers",
+        "has forgotten how to love",
+        "can kill you in your dreams"
+      ]
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestappreciation1",[
+        "You defeated the <giant> <monster>?",
+        "You got rid of the <monster>?",
+        "Oh, you sorted out that <giant> <monster>?"
+      ]
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestappreciation2",[
+        "You're the best monster hunter around! I hope this reward makes it worth your while!",
+        "Thanks! I appreciate the help!",
+        "I'll sleep better knowing you've made it a little safer around here!",
+        "Thanks! You've made it so much safer to live around here.",
+        "Now I can sleep knowing that thing won't be around!"
+      ]
+    ]
+  },
+
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+      "^cyan;I need some help with a monster of a problem."
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+      "There's been <talk> about a <giant> ^orange;<monster>^white; over near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Some are saying that it <skadvtestrumours>! Can you <request>, so I can feel safe again?",
+      "I was out <exploring> near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <earlier> when <disaster>! A <giant> ^orange;<monster>^white; was there and <fate>.  Can you <request>, to teach it a lesson?"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+      "<skadvtestappreciation1> <skadvtestappreciation2>"
+    ]
+  }
+]

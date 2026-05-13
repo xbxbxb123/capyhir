@@ -1,0 +1,13 @@
+[
+	{"op": "add", "path": "/converse/default/skadvtest", "value": [
+			"New person. Smells strange. Quite exciting!",
+			"Odd person. Hopefully nice. Feeling cautious!",
+			"Weird person. Not Fenerox. Being polite!",
+			"Meeting stranger. Being friendly. New experience!",
+			"Odd person. Saying hello. Not Fenerox?",
+			"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+			"New stranger. Not confident. Saying hello!",
+			"Unknown person. Not hairy. Looking weird."
+		]
+	}
+]

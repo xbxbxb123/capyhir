@@ -1,0 +1,6 @@
+[
+  {"op": "add","path": "/skadvtestDescription","value": "I can use materials I've found here to create new things."},
+  {"op": "add","path": "/upgradeStages/0/itemSpawnParameters/skadvtestDescription","value": "I can use materials I've found here to create new things."},
+  {"op": "add","path": "/upgradeStages/1/itemSpawnParameters/skadvtestDescription","value": "I can use materials I've found here to create new things."},
+  {"op": "add","path": "/upgradeStages/2/itemSpawnParameters/skadvtestDescription","value": "I can use materials I've found here to create new things."}
+]

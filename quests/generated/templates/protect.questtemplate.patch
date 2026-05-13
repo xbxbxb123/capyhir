@@ -1,0 +1,37 @@
+[
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+      "^cyan;I've heard <target> might be in trouble - If I help <target.pronoun.object>, <target.pronoun.subject> might trust me more!",
+      "^cyan;I've received information that <target> is at risk. If I help <target.pronoun.object>, <target.pronoun.subject> might like me more!"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+      "Firstly, we need to deal with the ^orange;<threat>^white; that are on their way here from the ^orange;<spawnPoint>^white;<spawnPoint.direction>. I hear they're after ^orange;<target>! ^green;Do whatever you can to fend them off.^white; <target.pronoun.capitalSubject> needs our protection!",
+      "The first task is simple; head over to the ^orange;<spawnPoint>^white;<spawnPoint.direction> and make sure those ^orange;<threat>^white; don't succeed in their attack against ^orange;<target>! ^green;Protect <target.pronoun.object>^green; at all costs!"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/text/next/skadvtest","value": [
+      "Next ^green;we'll need to defend against incoming ^orange;<threat>^white; from the ^orange;<spawnPoint>^white;<spawnPoint.direction>. I've heard that their target is ^orange;<target>^white;. If we show that we're willing to risk life and limb to ^green;protect <target>, then <target.pronoun.subject>'ll know <target.pronoun.subject> can trust us.",
+      "Next, we need to protect ^orange;<target>^white;. There's a group of ^orange;<threat>^white; on their way here through the ^orange;<spawnPoint>^white;<spawnPoint.direction> to attack <target.pronoun.object>. ^green;Do whatever you can to keep <target.pronoun.object> safe from harm!"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+      "Word is that ^orange;<threat>^white; are on their way here to capture ^orange;<target>^white; and take <target.pronoun.object> back to the ^orange;<spawnPoint>^white;<spawnPoint.direction>. This can't be allowed to happen! ^green;Please help protect <target.pronoun.object>^white; however you can!",
+      "<target> is in danger! It seems there's a gang of ^orange;<threat>^white; on their way from the ^orange;<spawnPoint>^white;<spawnPoint.direction> with hostile intentions. ^green;Make sure they don't harm ^orange;<target>^white;. Do whatever it takes!"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/skadvtest","value": [
+      "Thanks to you <target> wasn't harmed. I'm sure <target.pronoun.subject> is extremely grateful to us. I know I would be!",
+      "You kept <target> safe! <target.pronoun.capitalSubject>'ll never forget that we saved <target.pronoun.possessiveDet> life. It feels like a bond has been created between us."
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/next/skadvtest","value": [
+      "You made short work of those <threat>! We've also earned the trust of <target>. I'm sure that will prove helpful!",
+      "Well done! Those <threat> met their match. I bet <target> likes me a lot more now!"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+      "Hahaha, <threat> are no match for us ... er, I mean you. I think this will have earned us <target>'s trust!",
+      "I'm impressed! The <threat> never stood a chance. I think we've earned <target>'s friendship as well."
+    ]
+  }
+]

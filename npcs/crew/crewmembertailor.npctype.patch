@@ -1,0 +1,39 @@
+[
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/skadvtest", "value": {
+		"default": [
+            "Come to me if you want to update your crew's uniform!",
+            "My tailoring skills let me update your crew's uniform. Just speak to me when you need my services!"
+		]
+	}},
+	{"op": "add", "path": "/scriptConfig/dialog/converse/skadvtest", "value": {
+		"default": [
+            "That look is definitely in this season!",
+            "Looking good!",
+            "This outfit will make your crew really stand out. Great choice, captain!",
+            "Incredible fashion sense, captain!"
+		]
+	}},
+
+	{
+		"op": "add",
+		"path": "/items/skadvtest",
+		"value": [
+			[0, [
+				{
+					"chest": [{"name": "protectoratechest"}],
+					"legs": [{"name": "protectoratepants"}],
+					"sheathedprimary": [
+						"npcbroadsword",
+						"npcdagger",
+						"npcshortsword",
+						"npcspear",
+						"npcassaultrifle",
+						"npcbow",
+						"npcfirebow",
+						"npcpistol"
+					]
+				}
+			]]
+		]
+	}
+]

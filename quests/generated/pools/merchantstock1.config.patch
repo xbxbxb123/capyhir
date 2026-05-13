@@ -1,0 +1,7 @@
+[
+  {"op": "add", "path": "/0/1/-", "value": ["skadvtest", "skadvtestbed1"]},
+  {"op": "add", "path": "/0/1/-", "value": ["skadvtest", "skadvtestchair1"]},
+  {"op": "add", "path": "/0/1/-", "value": ["skadvtest", "skadvtestdoor1"]},
+  {"op": "add", "path": "/0/1/-", "value": ["skadvtest", "skadvtestlight1"]},
+  {"op": "add", "path": "/0/1/-", "value": ["skadvtest", "skadvtesttable1"]}
+]

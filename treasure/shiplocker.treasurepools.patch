@@ -1,12 +1,7 @@
 [
-  {
-    "op": "add",
-    "path": "/capyhirStarterTreasure",
-    "value": [[0, {
+  {"op": "add", "path": "/skadvtestStarterTreasure", "value": [[0, {
       "fill" : [
-        {"pool" : "starterTreasure"},
-        {"item" : [ "capyhirsword", 1 ]},
-        {"item" : [ "xb_bioclay_tile", 100 ]}
+	      {"pool" : "starterTreasure"}
       ]
     }]]
   }

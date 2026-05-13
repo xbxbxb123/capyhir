@@ -1,0 +1,41 @@
+[
+{ "op" : "add", "path" : "/skadvtestproto","value" : {
+		"stats" : {
+			"energy" : 3,
+			"protection" : 3
+		},
+		"partParameters" : {},
+		"partImages" : {
+			"bodyBack" : "body/skadvtestproto_back.png",
+			"bodyFront" : "body/skadvtestproto_front.png",
+			"bodyFullbright" : "body/skadvtestproto_fullbright.png"
+		},
+		"defaultPrimaryColors" : ["b5b5b5", "808080", "555555", "303030"],
+		"defaultSecondaryColors" : ["c36a5f", "994c49", "6f3130", "551d28"],
+		"animationCustom" : {
+			"animatedParts" : { "parts" : { "bodyFront" : { "properties" : {
+			"sitPosition" : [0.3, 0.4]
+			}}}}
+		}
+	}
+},
+
+{ "op" : "add", "path" : "/skadvtest","value" : {
+		"stats" : {
+			"energy" : 5,
+			"protection" : 5
+		},
+		"partParameters" : {
+			"hazardImmunities" : ["biomeradiation", "biomecold"]
+		},
+		"partImages" : {
+			"bodyBack" : "body/skadvtest_back.png",
+			"bodyFront" : "body/skadvtest_front.png",
+			"bodyFullbright" : "body/skadvtest_fullbright.png"
+		},
+		"defaultPrimaryColors" : ["b5b5b5", "808080", "555555", "303030"],
+		"defaultSecondaryColors" : ["c36a5f", "994c49", "6f3130", "551d28"],
+		"animationCustom" : {}
+	}
+}
+]

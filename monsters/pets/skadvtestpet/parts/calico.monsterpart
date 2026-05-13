@@ -1,0 +1,9 @@
+{
+  "name" : "calico",
+  "category" : "skadvtestpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "calico.png"
+  }
+}

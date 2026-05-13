@@ -1,0 +1,22 @@
+[
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+      "To begin, ^green;I'll need ^orange;<fetchedItems>^white;. Could you lend a hand?",
+      "Initially, ^green;we'll need to gather ^orange;<fetchedItems>^white;. Could you handle that?"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+      "Next, ^green;we'll need ^orange;<fetchedItems>^white;. You can handle that, right?",
+      "^green;The next thing I'll need is ^orange;<fetchedItems>^white;. It's important to the plan."
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/skadvtest","value": [
+      "Excellent! Now we can put these to use.",
+      "Well done <player>, I never doubted you could do it!"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+      "Thank you, this is exactly what I need for the next stage of my plan...",
+      "Perfect, this will work nicely. Thank you!"
+    ]
+  }
+]

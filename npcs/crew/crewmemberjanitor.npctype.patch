@@ -1,0 +1,32 @@
+[
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/skadvtest", "value": {
+		"default" : [
+			"I'm <selfname>... The janitor.",
+        	"The name's <selfname>... The janitor."
+		]
+	}},
+
+	{"op": "add", "path": "/items/skadvtest",
+		"value": [
+			[0, [
+				{
+					"chest": [{"name": "protectoratechest"}],
+					"legs": [{"name": "protectoratepants"}],
+					"primary": ["broom"],
+					"sheathedprimary": [
+						"npcbroadsword",
+						"npcaxe",
+						"npcdagger",
+						"npchammer",
+						"npcshortsword",
+						"npcspear",
+						"npcassaultrifle",
+						"npcbow",
+						"npcfirebow",
+						"npcpistol"
+					]
+				}
+			]]
+		]
+	}
+]

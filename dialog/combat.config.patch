@@ -1,53 +1,81 @@
 [
-	{
-		"op": "add",
-		"path": "/attack/capyhir",
-		"value": {
+	{"op": "add", "path": "/reattack/skadvtest", "value": {
 			"default": [
-				"Time for a fight, it seems.",
-				"Let's get this over with",
-				"You don't have a snowflakes chance on a magma planet",
+				"You again!",
+				"You returned!",
+				"Aha!",
+				"You came back?",
+				"So you came back."
+			]
+	}},
+	{"op": "add", "path": "/attack/skadvtest", "value": {
+			"default": [
+				"You're dead meat!",
+				"Let's get this over with!",
+				"You don't have a snowflakes chance on a magma planet!",
 				"I'm not much of a fighter...",
 				"Uh-oh...",
-				"I don't go down so easy",
+				"I don't go down so easy!",
 				"How do I keep ending up in situations like this?",
 				"Let's get this over with...",
-				"Be warned, I put up a fight",
-				"Let's do this",
-				"You won't know what hit you"
+				"Be warned, I put up a fight!",
+				"Let's do this!",
+				"You won't know what hit you!"
 			]
-		}
-	},
-	{
-		"op": "add",
-		"path": "/killedTarget/capyhir",
-		"value": {
+	}},
+	{"op": "add", "path": "/killedTarget/skadvtest", "value": {
 			"default": [
-				"Never mess with me",
-				"Victory",
-				"Phew",
-				"Another victory",
-				"I didn't even break a sweat",
+				"Never mess with me!",
+				"Victory!",
+				"Phew!",
+				"Another victory!",
+				"I didn't even break a sweat!",
 				"Heh.",
-				"Of course I won",
-				"I'm pretty good at this",
+				"Of course I won!",
+				"I'm pretty good at this!",
 				"That was stressful...",
-				"Another easy win",
-				"Yes",
-				"That's what you get"
+				"Another easy win!",
+				"Yes!",
+				"That's what you get!"
+			]
+	}},
+	{"op": "add", "path": "/lostTarget/skadvtest", "value": {
+			"default": [
+				"I will get you one day!",
+				"It's not over!",
+				"Don't come back!",
+				"Where are you...",
+				"What a hassle.",
+				"Just you wait!"
+			]
+	}},
+	{"op": "add", "path": "/outOfSight/skadvtest", "value": {
+			"default": [
+				"Sneaky! This is sneaky! How did you disappear?",
+				"They're getting away!",
+				"Where'd you go?",
+				"Get back here!",
+				"How did this happen?"
 			]
 		}
 	},
-	{
-		"op": "add",
-		"path": "/lostTarget/capyhir",
-		"value": {
+	{"op": "add", "path": "/cantReach/skadvtest", "value": {
 			"default": [
-				"Did it leave?",
-				"I hope it doesn't come back...",
-				"Where did it go?",
-				"That's annoying...",
-				"...?"
+				"Get over here!",
+				"Come here!",
+				"Get back here!",
+				"How did you get over there?",
+				"I can't reach!"
+			]
+		}
+	},
+	{"op": "add", "path": "/cheerOn/skadvtest", "value": {
+			"default": [
+				"I have a plan!",
+				"Get them!",
+				"Everybody is in my way.",
+				"Why aren't they already dead?",
+				"Come on!"
 			]
 		}
 	}

@@ -1,0 +1,5 @@
+[
+  {"op": "add","path": "/skadvtestDescription","value": "A wooden spinning wheel. So old-fashioned it's almost quaint."},
+  {"op": "add","path": "/upgradeStages/0/itemSpawnParameters/skadvtestDescription","value": "A wooden spinning wheel. So old-fashioned it's almost quaint."},
+  {"op": "add","path": "/upgradeStages/1/itemSpawnParameters/skadvtestDescription","value": "A sewing machine. Pretty standard fare."}
+]

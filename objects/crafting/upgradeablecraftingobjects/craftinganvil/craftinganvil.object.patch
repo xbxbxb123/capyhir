@@ -1,0 +1,6 @@
+[
+  {"op": "add","path": "/skadvtestDescription","value": "An anvil. Humans haven't used these since early in our history."},
+  {"op": "add","path": "/upgradeStages/0/itemSpawnParameters/skadvtestDescription","value": "An anvil. Humans haven't used these since early in our history."},
+  {"op": "add","path": "/upgradeStages/1/itemSpawnParameters/skadvtestDescription","value": "This forge let's me craft equipment out of metal!"},
+  {"op": "add","path": "/upgradeStages/2/itemSpawnParameters/skadvtestDescription","value": "I can create super strong equipment from this replicator."}
+]

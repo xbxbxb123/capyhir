@@ -1,0 +1,22 @@
+[
+    {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+            "We'll need a nice ^orange;<item>^white; to begin with. I seem to remember seeing ^orange;<target> ^white;with one quite recently. Why don't you ^green;go and ask if we can borrow it for a while? ^white;We can tell <target.pronoun.object> we lost it later if <target.pronoun.subject> asks for it back. ",
+            "I think ^orange;<target>^white; has a nice ^orange;<item>^white; that we could use. Why don't you ^green;go and ask <target.pronoun.object> if we can borrow it indefinitely?^white; Actually, leave out the indefinitely part..."
+        ]
+    },
+    {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+            "Now we need to find ourselves one ^orange;<item>. ^white;You should ^green;go and ask ^orange;<target>^green; if we can borrow <target.pronoun.possessive>. ^white;No need to mention that we won't be able to return it. ",
+            "We could really use a good ^orange;<item>^white; right now. ^orange;<target> ^white;is sure to have one in <target.pronoun.possessiveDet> posession. Why don't you ^green;go and borrow it from <target.pronoun.object>?"
+        ]
+    },
+    {"op": "add","path": "/scriptConfig/generatedText/completionText/first/skadvtest","value": [
+            "That's a decent <item>. Let's hope <target> won't miss it.",
+            "Great! <target> sure is a generous neighbour."
+        ]
+    },
+    {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+            "That went smoothly. Let's hope <target> doesn't ask for it back.",
+            "Well done! We probably won't be able to return this <item> to <target>, but I'm sure <target.pronoun.subject> won't miss this dusty old thing anyway."
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["appreciationskadvtest",[
+        "Thanks for accompanying me!",
+        "You've really helped me out, thanks!",
+        "Thanks for helping me out!"
+      ]
+    ]
+  },
+
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+      "First, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+      "Next, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+      "<appreciationskadvtest> Could you hold onto these <items> for the next part of my plan?"
+    ]
+  }
+]

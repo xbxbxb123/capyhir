@@ -1,0 +1,22 @@
+[
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+      "The first step is ^green;finding the ^orange;<monster>^white; that's been giving me trouble. It ran off with ^orange;<items>,^white; towards the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;You don't mind hunting it down do you?",
+      "The first thing we'll need is ^orange;<items>.^white; Unfortunately, an oversized <monster> ate my supplies. It should be lurking around near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;kill that ^orange;<monster>^green; and bring them back?"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+      "Next, ^green;I'll need you to hunt down the ^orange;<monster>^white; that swallowed my ^orange;<items>^white; and ran off the other day -- I need my stuff back. That ^orange;<monster>^white; should be near the ^orange;<spawnPoint>^white;<spawnPoint.direction>.",
+      "Next you'll need to hunt down a ^orange;<monster>.^white; I was out walking by the ^orange;<spawnPoint>^white;<spawnPoint.direction> earlier and it ambushed me and took my ^orange;<items>. Would you ^green;locate the creature and return what it's taken?"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/skadvtest","value": [
+      "Great work! That <monster> won't be bothering anyone anymore! And we should have everything we need for phase two.",
+      "Yuck, was this in the stomach of that <monster>?  I guess I can't complain, thanks for doing the dirty work."
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+      "That <monster> is finally gone? Thank you! Now that we've got <items> we can move forward.",
+      "Thank you! That <monster> should have thought twice before running off with things that didn't belong to it."
+    ]
+  }
+]

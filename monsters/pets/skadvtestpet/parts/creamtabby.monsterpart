@@ -1,0 +1,9 @@
+{
+  "name" : "creamtabby",
+  "category" : "skadvtestpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "creamtabby.png"
+  }
+}

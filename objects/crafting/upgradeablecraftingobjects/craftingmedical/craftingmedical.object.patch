@@ -1,0 +1,5 @@
+[
+  {"op": "add","path": "/skadvtestDescription","value": "I can use materials I've found here to create new healing items."},
+  {"op": "add","path": "/upgradeStages/0/itemSpawnParameters/skadvtestDescription","value": "I can use materials I've found here to create new healing items."},
+  {"op": "add","path": "/upgradeStages/1/itemSpawnParameters/skadvtestDescription","value": "I can use materials I've found here to create new healing items."}
+]

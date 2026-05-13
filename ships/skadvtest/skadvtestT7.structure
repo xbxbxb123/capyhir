@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 10
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "skadvtestT7.png",
+      "position" : [8.39, 3.875],
+      "fullbright" : true
+    },
+    {
+      "image" : "skadvtestT7lit.png",
+      "position" : [8.39, 3.875]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "skadvtestT7blocks.png"
+}

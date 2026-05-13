@@ -1,0 +1,62 @@
+[
+  {"op": "add", "path": "/skadvtestarmour",
+    "value": [
+      [0, [
+      { "item" : { "name" : "skadvtesttier1chest" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier1head" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier1pants" }, "rarity" : 0.1 }
+    ]],
+    [1.9, [
+      { "item" : { "name" : "skadvtesttier1chest" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier1head" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier1pants" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier2chest" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier2head" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier2pants" }, "rarity" : 0.1 }
+    ]],
+    [2.9, [
+      { "item" : { "name" : "skadvtesttier1chest" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier1head" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier1pants" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier2chest" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier2head" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier2pants" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier3chest" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier3head" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier3pants" }, "rarity" : 0.1 }
+    ]],
+    [3.9, [
+      { "item" : { "name" : "skadvtesttier1chest" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier1head" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier1pants" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier2chest" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier2head" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier2pants" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier3chest" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier3head" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier3pants" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier4chest" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier4head" }, "rarity" : 0.1 },
+      { "item" : { "name" : "skadvtesttier4pants" }, "rarity" : 0.1 }
+    ]]
+    ]
+  },
+  
+  {"op": "add", "path": "/skadvtestfurniture",
+    "value": [
+      [0, [
+      { "item" : { "name" : "skadvtestbed1" }, "rarity" : 0.06 },
+      { "item" : { "name" : "skadvtestchair1" }, "rarity" : 0.06 },
+      { "item" : { "name" : "skadvtestdoor1" }, "rarity" : 0.06 },
+      { "item" : { "name" : "skadvtestlight1" }, "rarity" : 0.06 },
+      { "item" : { "name" : "skadvtesttable1" }, "rarity" : 0.06 },
+
+      { "item" : { "name" : "skadvtestbed1-recipe" }, "rarity" : 0.03 },
+      { "item" : { "name" : "skadvtestchair1-recipe" }, "rarity" : 0.03 },
+      { "item" : { "name" : "skadvtestdoor1-recipe" }, "rarity" : 0.03 },
+      { "item" : { "name" : "skadvtestlight1-recipe" }, "rarity" : 0.03 },
+      { "item" : { "name" : "skadvtesttable1-recipe" }, "rarity" : 0.03 }
+    ]]
+    ]
+  }
+]

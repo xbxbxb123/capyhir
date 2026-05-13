@@ -1,9 +1,0 @@
-{
-  "name" : "redblue",
-  "category" : "capyhirpet",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "redblue.png"
-  }
-}

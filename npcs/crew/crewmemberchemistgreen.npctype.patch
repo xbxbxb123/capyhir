@@ -1,0 +1,25 @@
+[
+	{"op": "add", "path": "/items/skadvtest",
+		"value": [
+			[0, [
+				{
+					"chest": [{"name": "protectoratechest"}],
+					"legs": [{"name": "protectoratepants"}],
+					"primary": ["greenstim"],
+					"sheathedprimary": [
+						"npcbroadsword",
+						"npcaxe",
+						"npcdagger",
+						"npchammer",
+						"npcshortsword",
+						"npcspear",
+						"npcassaultrifle",
+						"npcbow",
+						"npcfirebow",
+						"npcpistol"
+					]
+				}
+			]]
+		]
+	}
+]

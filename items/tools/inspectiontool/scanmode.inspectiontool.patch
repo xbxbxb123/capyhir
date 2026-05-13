@@ -1,0 +1,18 @@
+[
+  {"op": "add","path": "/outOfRangeText/skadvtest",
+    "value": [
+      "That's outside my scanner's detection area.",
+      "Can't seem to get a reading; I should get closer.",
+      "The signal's too faint to make out - might be out of range.",
+      "It must be out of range, I can't get a reading."
+    ]
+  },
+  {"op": "add","path": "/nothingThereText/skadvtest",
+    "value": [
+      "Nothing of interest here.",
+      "Nothing to see here.",
+      "This isn't really anything.",
+      "Nothing much to speak of."
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name" : "cream",
+  "category" : "skadvtestpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "cream.png"
+  }
+}

@@ -1,0 +1,5 @@
+[
+  {"op": "add","path": "/skadvtestDescription","value": "I could make a well furnished home with this."},
+  {"op": "add","path": "/upgradeStages/0/itemSpawnParameters/skadvtestDescription","value": "I could make a well furnished home with this."},
+  {"op": "add","path": "/upgradeStages/1/itemSpawnParameters/skadvtestDescription","value": "I could make a well furnished home with this."}
+]

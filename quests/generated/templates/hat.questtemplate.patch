@@ -1,0 +1,17 @@
+[
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+      "^cyan;I want to wear something that makes me look <adjective>. Will you help me?",
+      "^cyan;I want to look <adjective>, and I have a plan to make it happen."
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+      "Finally, run over and have ^orange;<friend>^white; assemble us some custom ^orange;headwear.^white; Just ^green;mention my name, and give <friend.pronoun.object> our ^orange;<clothingIngredients>^white;.",
+      "Now all that's left is to ask ^orange;<friend>^white; to make my custom headwear. ^green;Give <friend.pronoun.object> our ^orange;<clothingIngredients>^white; and <friend.pronoun.subject> can craft it for me!"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+      "Thank you! What do you think? Don't I look <adjective> now?",
+      "Thanks! How do I look? Suitably <adjective>, I'm sure."
+    ]
+  }
+]

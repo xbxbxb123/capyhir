@@ -1,0 +1,22 @@
+[
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+      "I'm in need of a certain item, and I know that ^orange;<victim>^white; keeps one in <victim.pronoun.possessiveDet> home. I need you to ^green;sneak in and remove <victim.pronoun.possessiveDet> ^orange;<objectItem> ^white;while <victim.pronoun.subject>'s not looking.",
+      "First, some petty thievery. I need you to ^green;obtain ^orange;<victim>'s <objectItem>. ^green;Go grab it from <victim.pronoun.possessiveDet> house^white;, but make sure nobody sees you."
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+      "How do you feel about burglary? I'd like you to ^green;aquire the ^orange;<objectItem>^green; in ^orange;<victim>'s^green; home for me. ",
+      "This next part requires something that isn't ours to use. We are in need of the ^orange;<objectItem> ^green;located in ^orange;<victim>'s^green; home. You need to go and steal it."
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/skadvtest","value": [
+      "Nice work, you made it look easy! Keep hold of that <objectItem> for the time being, and make sure you don't lose it!",
+      "Yes, that's the <objectItem> I was looking for! Nobody saw you take it, right?"
+    ]
+  },
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+      "Wow, I bet you'd take anything that wasn't nailed down! I don't want to get caught if <victim> comes looking for that <objectItem>, so hold onto it for now.",
+      "Don't wave that <objectItem> around near me! We don't want <victim> to come looking for it."
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+[
+  {"op": "add","path": "/skadvtestDescription","value": "This table will allow me to do plenty of field work."},
+  {"op": "add","path": "/upgradeStages/0/itemSpawnParameters/skadvtestDescription","value": "This table will allow me to do plenty of field work."},
+  {"op": "add","path": "/upgradeStages/1/itemSpawnParameters/skadvtestDescription","value": "This table will allow me to do plenty of field work."}
+]
