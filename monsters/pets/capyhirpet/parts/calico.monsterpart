@@ -1,0 +1,9 @@
+{
+  "name" : "calico",
+  "category" : "capyhirpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "calico.png"
+  }
+}

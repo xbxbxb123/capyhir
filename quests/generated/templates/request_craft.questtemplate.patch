@@ -1,20 +1,20 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/capyhir","value": [
       "First, I need you to grab something for me. ^orange;<target>^white; knows how to make the best ^orange;<item>^white; in the star system, ^green;head over and ask for one.^white; We'll need it later.",
       "The first thing I'll need is one ^orange;<item>. <target>^white; is good at making them, so we'll ^green;ask <target.pronoun.object> to make one^white; specifically for us."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "The next thing I need is one ^orange;<item>. <target>^white; can make just about anything, ^green;ask <target.pronoun.object> to put it together.",
       "Next, run over and have ^orange;<target>^white; assemble us a custom ^orange;<item>.^white; Just ^green;mention my name, <target> knows how I like them made."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/last/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/last/capyhir","value": [
       "Nice one, I knew <target> would come up trumps. That's one thing off the list...",
       "I've never seen anyone make any <item> as fine as <target> does. This is going to be perfect for what I've got planned."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "Thanks! <target> makes them just right, I couldn't just get any old <item> for what I've got in mind.",
       "No one makes them like <target>! That's one more thing sorted. Thank you!"
     ]

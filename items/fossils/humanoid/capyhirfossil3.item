@@ -1,0 +1,21 @@
+{
+  "itemName" : "capyhirfossil3",
+  "rarity" : "Uncommon",
+  "itemTags" : ["fossil"],
+
+  "description" : "A fossilised pair of capyhir legs.",
+  "category" : "mediumFossil",
+
+  "shortdescription" : "capyhir Legs",
+  "race" : "capyhir",
+  "price" : 0,
+
+  "inventoryIcon" : "capyhirfossil3icon.png",
+
+  "displayImage" : "/objects/fossils/humanoidfossils/fossilcapyhir/capyhirlegsdisplay.png",
+  "displayoffset" :[0, 0],
+
+  "fossilSetName" : "capyhirSkeleton",
+  "setIndex" : 3,
+  "setCount" : 3
+}

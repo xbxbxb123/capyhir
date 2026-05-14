@@ -1,0 +1,30 @@
+{
+  "itemName" : "capyhirfossil1",
+  "rarity" : "Uncommon",
+  "itemTags" : ["fossil"],
+
+  "description" : "A fossilised capyhir skull.",
+  "category" : "mediumFossil",
+
+  "shortdescription" : "capyhir Skull",
+  "race" : "capyhir",
+  "price" : 50,
+
+  "inventoryIcon" : "capyhirfossil1icon.png",
+
+  "completeSetDescriptions" : {
+    "price" : 1500,
+    "shortdescription" : "capyhir Fossil",
+    "description" : "A fossilised capyhir, the dominant species of Earth."
+  },
+
+  "displayImage" : "/objects/fossils/humanoidfossils/fossilcapyhir/capyhirskulldisplay.png",
+  "displayoffset" :[0, 0],
+
+  "fossilSetName" : "capyhirSkeleton",
+  "setIndex" : 1,
+  "setCount" : 3,
+  "setCollectables" : { "fossils" : "capyhirSkeleton" },
+
+  "completeFossilIcon" : "/objects/fossils/humanoidfossils/capyhiroidskeletonicon.png"
+}

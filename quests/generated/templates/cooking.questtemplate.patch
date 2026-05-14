@@ -1,10 +1,10 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "Now comes the tricky part - cooking. You should be able to ^green;assemble ^orange;<ingredients>^white; into ^orange;<cookedItems>^white;. The recipe seems simple, but my attempts at cooking never work out.",
       "The ^orange;<ingredients>^white; will need some preparing. You should be able to ^green;whip up ^orange;<cookedItems>^white;. Why don't you give it a try?"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "Wow! That looks delicious! I wish we could eat this right now but we'll need it for what comes next...",
       "You didn't seem to have any trouble cooking that! Thank you - this is exactly what's needed to complete my plan."
     ]

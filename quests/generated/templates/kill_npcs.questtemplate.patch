@@ -1,13 +1,13 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestactivity",[
-        "went for a walk to <skadvtestpersonal>",
-        "took an excursion to <skadvtestpersonal>",
-        "took a short trip to <skadvtestpersonal>",
-        "went jogging to <skadvtestpersonal>"
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["capyhiractivity",[
+        "went for a walk to <capyhirpersonal>",
+        "took an excursion to <capyhirpersonal>",
+        "took a short trip to <capyhirpersonal>",
+        "went jogging to <capyhirpersonal>"
       ]
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestpersonal",[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["capyhirpersonal",[
         "expand my emotional horizons",
         "explore the area",
         "think about life and stuff",
@@ -20,7 +20,7 @@
       ]
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestappreciation",[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["capyhirappreciation",[
         "I'm impressed! Thank you so much!",
         "I feel so much safer now, thank you! Take this gift for all your help.",
         "You've helped make this planet just that bit safer!",
@@ -31,19 +31,19 @@
     ]
   },
 
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
       "^cyan;I had an encounter with some <enemy> <earlier>.",
       "^cyan;I overheard some <enemy> <earlier>."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
-      "I <skadvtestactivity> <earlier>, when ^orange;<enemy>^white; <crime1>. I'm feeling <reaction> and <justice1>. It happened near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <request>^white;?",
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
+      "I <capyhiractivity> <earlier>, when ^orange;<enemy>^white; <crime1>. I'm feeling <reaction> and <justice1>. It happened near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <request>^white;?",
       "I <overheard> some ^orange;<enemy>^white; who were near the ^orange;<spawnPoint>^white; <earlier>. <doubt> but I think they were <discussing> <discussion>. ^green;Could you go and <investigate>^white;?"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "You dealt with the <enemy>? <appreciation>",
-      "Did you find out what the <enemy> were up to? <skadvtestappreciation>"
+      "Did you find out what the <enemy> were up to? <capyhirappreciation>"
     ]
   }
 ]

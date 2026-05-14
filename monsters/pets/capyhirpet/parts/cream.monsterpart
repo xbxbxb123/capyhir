@@ -1,0 +1,9 @@
+{
+  "name" : "cream",
+  "category" : "capyhirpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "cream.png"
+  }
+}

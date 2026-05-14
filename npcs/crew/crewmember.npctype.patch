@@ -1,5 +1,5 @@
 [
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/skadvtest",
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/capyhir",
 		"value": {
 			"default" : [
 				"I'll be here for you if you need someone to help you fight bad guys!",
@@ -9,7 +9,7 @@
 		}
 	},
 
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/offer/skadvtest",
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/offer/capyhir",
 		"value": {
 			"default": [
 				"Hello adventurer, mind if I join you?",
@@ -21,7 +21,7 @@
 		}
 	},
 
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/respawned/skadvtest",
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/respawned/capyhir",
 		"value": {
 			"default": [
 				"Heh... Dying tickles.",
@@ -36,7 +36,7 @@
 		}
 	},
 
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/unfollow/skadvtest",
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/unfollow/capyhir",
 		"value": {
 			"default": [
 				"I'll just wait here.",
@@ -49,7 +49,7 @@
 		}
 	},
 
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/follow/skadvtest",
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/follow/capyhir",
 		"value": {
 			"default": [
 				"Yes, captain!",
@@ -61,7 +61,7 @@
 		}
 	},
 
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/cantreach/skadvtest",
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/cantreach/capyhir",
 		"value": {
 			"default": [
 				"I can't reach you!",
@@ -73,7 +73,7 @@
 		}
 	},
 
-	{"op": "add", "path": "/items/skadvtest",
+	{"op": "add", "path": "/items/capyhir",
 		"value": [
 			[0, [
 				{

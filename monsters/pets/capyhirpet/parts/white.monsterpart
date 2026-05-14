@@ -1,0 +1,9 @@
+{
+  "name" : "white",
+  "category" : "capyhirpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "white.png"
+  }
+}

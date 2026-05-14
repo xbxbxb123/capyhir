@@ -1,15 +1,15 @@
 [
-    {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+    {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
             "^cyan;This place still doesn't feel like home, it's missing something. Could you help me out?",
             "^cyan;I have a plan to spruce up my home, but I can't do it all by myself. Can you give me a hand?"
         ]
     },
-    {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+    {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
             "Alright, I think this ^orange;<object>^white; is exactly what's needed! ^green;Could you find some space in my home to place it?",
             "I think this ^orange;<object>^white; is going to do the trick! All that's left to do is ^green;place it in a nice spot."
         ]
     },
-    {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+    {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
             "That's it! It looks perfect right there! Thank you so much for all your help!",
             "Much better! It looks just how I'd imagined it. Many thanks, feel free to stop by anytime to admire your handiwork!"
         ]

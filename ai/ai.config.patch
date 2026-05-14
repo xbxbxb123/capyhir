@@ -1,8 +1,8 @@
 [
-	{"op" : "add","path" : "/species/skadvtest","value" : {
-			"aiFrames" : "skadvtestAi.png",
-			"portraitFrames" : "portraits/skadvtestportrait.png",
-			"staticFrames" : "staticskadvtest.png"
+	{"op" : "add","path" : "/species/capyhir","value" : {
+			"aiFrames" : "capyhirAi.png",
+			"portraitFrames" : "portraits/capyhirportrait.png",
+			"staticFrames" : "staticcapyhir.png"
 		}
 	}
 ]

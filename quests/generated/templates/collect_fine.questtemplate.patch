@@ -1,45 +1,45 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
       "^cyan;You look like you can handle yourself. Will you help me bring <target> to justice? ",
       "^cyan;<target> has been causing a nuisance around here lately - It's time I set <target.pronoun.object> straight."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/capyhir","value": [
       "I've got plenty of evidence here to prove that ^orange;<target>^white; has been up to no good. ^green;Deliver this ^orange;fine notice^green; to <target.pronoun.object>.^white; <target.pronoun.capitalSubject>'s already agreed to give up <target.pronoun.possessiveDet> ^orange;<item>^white; as payment. ",
       "The first thing on our agenda involves ^orange;<target>^white;. Certain evidence has come to light that <target.pronoun.subject>'s a pretty shady individual. ^green;Deliver this ^orange;fine notice^green; and collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/next/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/next/capyhir","value": [
       "Now, ^orange;<target>^white; owes a fine for being a law breaker. ^green;Will you deliver this ^orange;fine notice?^white; <target.pronoun.capitalSubject>'s agreed to give <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages.",
       "Next on our list involves ^orange;<target>, ^white;<target.pronoun.subject>'s proven <target.pronoun.reflexive> to be quite the lawbreaker. ^green;Deliver this ^orange;notice^green; for damages to <target.pronoun.object>,^white; <target.pronoun.subject>'s already agreed to give <target.pronoun.possessiveDet> ^orange;<item> as compensation."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/last/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/last/capyhir","value": [
       "Lastly, ^orange;<target>^white; owes a fine. ^green;Deliver this ^orange;notice^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages.",
       "Finally, we need ^orange;<target>^white; to pay for <target.pronoun.possessiveDet> shady practices. ^green;Deliver this ^orange;notice^green; to <target.pronoun.object>,^white; it's a receipt for criminal damages. ^green;Collect <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "^green;I need you to take this ^orange;fine notice^white; to ^orange;<target>^white;. <target.pronoun.capitalSubject>'s already agreed to give up <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages.",
       "^green;Deliver this ^orange;crime notice^green; to ^orange;<target>^white;. <target.pronoun.capitalSubject>'s agreed to give <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation for <target.pronoun.possessiveDet> behaviour."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/capyhir","value": [
       "Well done collecting the fine from <target>! This <item> will do nicely. Do you think you could do something else for me?",
       "<target> has no doubt learned <target.pronoun.possessiveDet> lesson. This <item> will come in useful too!"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/next/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/next/capyhir","value": [
       "Thank you for collecting <target>'s fine!  I wasn't sure <target.pronoun.subject>'d follow through with payment if I went myself. Luckily you look like someone <target> wouldn't want to mess with.",
       "Thank you for helping teach <target> that there's consequences to <target.pronoun.possessiveDet> actions! I can see a few uses for this <item> already."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/last/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/last/capyhir","value": [
       "Nice work collecting the fine from <target>. I was a little worried that <target.pronoun.subject>'d try to wriggle out of it. You can keep that <item> as payment.",
       "Thank you for teaching <target> a lesson. I hope <target.pronoun.subject> realises that nobody is above the law. You can keep the <item>. You've earned it."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "You did a good job! Keep the <item> as payment for your services. I just wanted to show <target> that nobody is above the law.",
       "Thanks for your help! <target> should realise that we have to follow the rules around here. You can keep that <item> if you like."
     ]

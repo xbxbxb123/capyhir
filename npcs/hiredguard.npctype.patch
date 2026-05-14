@@ -1,17 +1,17 @@
 [{
 	"op": "add",
-	"path": "/items/skadvtest",
+	"path": "/items/capyhir",
 	"value": [
 		[0, [
 		{
 			"head": [
-				{"name": "skadvtesttier1head"}
+				{"name": "capyhirtier1head"}
 			],
 			"chest": [
-				{"name": "skadvtesttier1chest"}
+				{"name": "capyhirtier1chest"}
 			],
 			"legs": [
-				{"name": "skadvtesttier1pants"}
+				{"name": "capyhirtier1pants"}
 			],
 			"primary": [
 				"npcbroadsword",
@@ -31,13 +31,13 @@
 		},
 		{
 			"head": [
-				{"name": "skadvtesttier2head"}
+				{"name": "capyhirtier2head"}
 			],
 			"chest": [
-				{"name": "skadvtesttier2chest"}
+				{"name": "capyhirtier2chest"}
 			],
 			"legs": [
-				{"name": "skadvtesttier2pants"}
+				{"name": "capyhirtier2pants"}
 			],
 			"primary": [
 				"npcbroadsword",
@@ -57,13 +57,13 @@
 		},
 		{
 			"head": [
-				{"name": "skadvtesttier3head"}
+				{"name": "capyhirtier3head"}
 			],
 			"chest": [
-				{"name": "skadvtesttier3chest"}
+				{"name": "capyhirtier3chest"}
 			],
 			"legs": [
-				{"name": "skadvtesttier3pants"}
+				{"name": "capyhirtier3pants"}
 			],
 			"primary": [
 				"npcbroadsword",
@@ -83,13 +83,13 @@
 		},
 		{
 			"head": [
-				{"name": "skadvtesttier4head"}
+				{"name": "capyhirtier4head"}
 			],
 			"chest": [
-				{"name": "skadvtesttier4chest"}
+				{"name": "capyhirtier4chest"}
 			],
 			"legs": [
-				{"name": "skadvtesttier4pants"}
+				{"name": "capyhirtier4pants"}
 			],
 			"primary": [
 				"npcbroadsword",

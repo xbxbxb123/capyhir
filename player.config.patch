@@ -1,4 +1,4 @@
 [
-    { "op" : "add", "path" : "/defaultCodexes/skadvtest", "value" : [ "protectorate1", "protectorate2" ] },
-    {"op": "add","path": "/deploymentConfig/speciesStarterMechBody/skadvtest","value":  "mechbodyskadvtestproto" }
+    { "op" : "add", "path" : "/defaultCodexes/capyhir", "value" : [ "protectorate1", "protectorate2" ] },
+    {"op": "add","path": "/deploymentConfig/speciesStarterMechBody/capyhir","value":  "mechbodycapyhirproto" }
 ]

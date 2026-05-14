@@ -1,5 +1,5 @@
 [
-  {"op": "add","path": "/outOfRangeText/skadvtest",
+  {"op": "add","path": "/outOfRangeText/capyhir",
     "value": [
       "I can't see that spot.",
       "I need to get closer to see that.",
@@ -7,7 +7,7 @@
       "I'm not close enough to see that."
     ]
   },
-  {"op": "add","path": "/nothingThereText/skadvtest",
+  {"op": "add","path": "/nothingThereText/capyhir",
     "value": [
       "Nothing of interest here.",
       "Nothing to see here.",

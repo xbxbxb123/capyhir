@@ -1,45 +1,45 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
       "^cyan;I saw that <victim> was looking for <victim.pronoun.possessiveDet> stolen <item>, and I happen to know where it is. <victim.pronoun.capitalSubject>'d be pretty thankful if we were to help return it.",
       "^cyan;<victim> was asking if I knew anyone that could help find <victim.pronoun.possessiveDet> <item>. I know where it is, but I need your help."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/capyhir","value": [
       "Alright, I know for a fact that ^orange;<thief>^white; has stolen ^orange;<victim>'s <item>^white;. I'll keep watch while you ^green;take it back.^white; Once you've got it, ^green;place it back in ^orange;<victim>'s^green; house.",
       "The first thing we've got to do involves a little bit of thievery. Well, it's a good kind of thievery. The ^orange;<item>^white; we need to steal back is located in ^orange;<thief>'s home. ^green;Go get it, then place it back in ^orange;<victim>'s^green; home."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/next/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/next/capyhir","value": [
       "Okay, now we get to do some housebreaking. ^green;Go grab the stolen ^orange;<item>^green; from ^orange;<thief>'s^green; home, and ^green;place it back in ^orange;<victim>'s^green; house.^white; I'll keep an eye out and make sure nobody's watching.",
       "A little breaking and entering never hurt anyone... Sort of. Go  ^green;steal back the ^orange;<item> ^green; in ^orange;<thief>'s ^green; home. Then put it back in ^orange;<victim>'s ^green; home."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/last/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/last/capyhir","value": [
       "Finally, time for some vigilante justice! ^green;Remove the stolen ^orange;<item>^green; from ^orange;<thief>'s^green; home, and ^green;place it back in ^orange;<victim>'s^green; house.^white; I'll be the lookout.",
       "Everything else is in place! It's time for some vigilante style burglary. I'll be your lookout while you^green; grab the stolen ^orange;<item>^green; from ^orange;<thief>'s^green;place. Then sneak it back into ^orange;<victim>'s^green; home."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "Alright, I'll keep a lookout while you ^green;take the stolen ^orange;<item>^green; from ^orange;<thief>'s^green; home.^white; Once you're done, ^green;place it back in ^orange;<victim>'s^green; house. ",
       "The ^orange;<item>^white; I've been looking for was stolen by ^orange;<thief>.^white; Right now it's sitting in <thief.pronoun.possessiveDet> home. ^green;Go steal it back,^white; then ^green;place it back in ^orange;<victim>'s^green; house^white; where it belongs. I'll be watching for trouble."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/capyhir","value": [
       "You did such a good job! I can't wait to see <thief>'s face when <thief.pronoun.subject> sees <thief.pronoun.subject> got a taste of <thief.pronoun.possessiveDet> own medicine. ",
       "That wasn't as hard as I thought. You're pretty good at this stuff, aren't you? <victim> will be happy to see <victim.pronoun.possessiveDet> stuff back where it belongs."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/next/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/next/capyhir","value": [
       "That was really impressive! I also like the way you didn't leave any fingerprints, that's smart thinking. Just wait until <victim> hears about this! ",
       "Good job! <victim> will be pleased with me, once <victim.pronoun.subject> sees <victim.pronoun.possessiveDet> <item> back in its rightful place."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/last/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/last/capyhir","value": [
       "<player> and <questGiver>, purveyors of vigilante justice! Sounds good, right?  You were like a ghost in there. <thief> won't know what to think! ",
       "You have a real talent for this kind of thing, I see you even brought your own tool for the job. <victim> will be pleased to see <victim.pronoun.possessiveDet> stuff has been returned."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "Wow, you made that look easy! <victim> will be pleased to see we got <victim.pronoun.possessiveDet> <item> back. Have you done this before? There's no danger of leaving fingerprints with a specialised tool like that..",
       "Nice work! <victim> will be pretty thankful to see that I helped get <victim.pronoun.possessiveDet> <item> back. We're a daring vigilante duo now!"
     ]

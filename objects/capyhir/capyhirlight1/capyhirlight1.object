@@ -1,0 +1,34 @@
+{
+  "objectName" : "capyhirlight1",
+  "colonyTags" : ["capyhir","light"],
+  "rarity" : "Common",
+  "description" : "A cute wooden lamp.",
+  "shortdescription" : "Wooden Table Lamp",
+  "race" : "capyhir",
+
+  "apexDescription" : "A small wooden lamp.",
+  "avianDescription" : "A tiny wooden light powered by electricity.",
+  "floranDescription" : "Sssweet lamp glowss warmly.",
+  "glitchDescription" : "Pleased. A simple table lamp.",
+  "humanDescription" : "A nice little lamp.",
+  "hylotlDescription" : "A charming lamp.",
+  "novakidDescription" : "This lamp is cute.",
+  "capyhirDescription" : "A nice little lamp.",
+
+  "category" : "light",
+  "price" : 25,
+  "lightColor" : [217, 217, 190],
+
+  "inventoryIcon" : "capyhirlight1icon.png",
+  "orientations" : [
+    {
+      "image" : "capyhirlight1.png:<color>.<frame>",
+      "imagePosition" : [-1, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

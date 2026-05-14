@@ -1,12 +1,12 @@
 [
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/skadvtest", "value": {
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/capyhir", "value": {
 		"default" : [
 			"I'm <selfname>... The janitor.",
         	"The name's <selfname>... The janitor."
 		]
 	}},
 
-	{"op": "add", "path": "/items/skadvtest",
+	{"op": "add", "path": "/items/capyhir",
 		"value": [
 			[0, [
 				{

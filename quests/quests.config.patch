@@ -1,4 +1,4 @@
 [
-	{"op": "add","path": "/initialquests/skadvtest","value": ["protectorate"]},
-	{"op": "add","path": "/pronounGenders/skadvtest","value": {"male": "male","female": "female"}}
+	{"op": "add","path": "/initialquests/capyhir","value": ["protectorate"]},
+	{"op": "add","path": "/pronounGenders/capyhir","value": {"male": "male","female": "female"}}
 ]

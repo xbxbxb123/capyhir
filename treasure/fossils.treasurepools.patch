@@ -1,5 +1,5 @@
 [
-    {"op": "add", "path": "/humanoidfossil/0/1/pool/-", "value": {"weight": 0.3, "item": "skadvtestfossil1"}},
-    {"op": "add", "path": "/humanoidfossil/0/1/pool/-", "value": {"weight": 0.3, "item": "skadvtestfossil2"}},
-    {"op": "add", "path": "/humanoidfossil/0/1/pool/-", "value": {"weight": 0.3, "item": "skadvtestfossil3"}}
+    {"op": "add", "path": "/humanoidfossil/0/1/pool/-", "value": {"weight": 0.3, "item": "capyhirfossil1"}},
+    {"op": "add", "path": "/humanoidfossil/0/1/pool/-", "value": {"weight": 0.3, "item": "capyhirfossil2"}},
+    {"op": "add", "path": "/humanoidfossil/0/1/pool/-", "value": {"weight": 0.3, "item": "capyhirfossil3"}}
 ]

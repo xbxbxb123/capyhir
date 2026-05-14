@@ -1,11 +1,11 @@
 [
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/skadvtest", "value": {
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/capyhir", "value": {
 		"default" : [
               "I'll give you a boost whenever we're on the ship!",
               "I'll give everyone on the ship buffs whilst we're on board!"
 		]
 	}},
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/combatBenefit/skadvtest", "value": {
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/combatBenefit/capyhir", "value": {
 		"default" : [
 			"Let me give you a boost real quick!",
 			"Let me help you out!",

@@ -1,5 +1,5 @@
 [
-	{"op": "add", "path": "/tagCriteria/skadvtest", "value": {
+	{"op": "add", "path": "/tagCriteria/capyhir", "value": {
 			"default": [
 				"Things have changed... Either you've messed things up, or I'm being haunted.",
 				"The arrangement of my house has changed, this isn't alright...",
@@ -7,7 +7,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/enclosedArea/skadvtest", "value": {
+	{"op": "add", "path": "/enclosedArea/capyhir", "value": {
 			"default": [
 				"My home could use some repairs...",
 				"Can you sort out the damage in here?",
@@ -15,7 +15,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/otherDeed/skadvtest", "value": {
+	{"op": "add", "path": "/otherDeed/capyhir", "value": {
 			"default": [
 				"I thought this was single tenancy!? I can't share my home!",
 				"Are you trying to have someone move in here?!",
@@ -23,7 +23,7 @@
 			]
 		}
 	},
-	{"op": "add","path": "/severe/skadvtest", "value": {
+	{"op": "add","path": "/severe/capyhir", "value": {
 			"default": [
 				"I can't live in these conditions!",
 				"Living here is pretty horrible right now...",
@@ -31,7 +31,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/final/skadvtest", "value": {
+	{"op": "add", "path": "/final/capyhir", "value": {
 			"default": [
 				"I've had enough of this!",
 				"That's it, I give up. Time to leave!",

@@ -1,12 +1,12 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestappreciation1",[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["capyhirappreciation1",[
         "Those <monster> won't be a problem anymore, because they're dead! Ha ha ha.",
         "You got rid of the <monster>?",
         "Oh, you sorted out the <monster>?"
       ]
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestappreciation2",[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["capyhirappreciation2",[
         "Thanks for the help, I hope this reward is okay!",
         "I appreciate you doing this for me. Please accept this gift.",
         "I hope this gift is enough for the time you spent on my problem!",
@@ -17,17 +17,17 @@
     ]
   },
 
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
       "^cyan;I need some help with a monster of a problem."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "I'm <upset> and need your help! A <group> of <wild> ^orange;<monster>^white; <ambushed> me whilst I was out <exploring> and <ate> <belonging1>! This happened at the ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;could you go and <revenge1>^white;?",
       "I'm too scared to leave here after <rumours> a pack of <wild> ^orange;<monster>^white; <loitering>. I heard they were last seen at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <revenge2> for me^white;?"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
-      "<skadvtestappreciation1> <skadvtestappreciation2>"
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
+      "<capyhirappreciation1> <capyhirappreciation2>"
     ]
   }
 ]

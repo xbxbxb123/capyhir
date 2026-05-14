@@ -1,15 +1,15 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
       "^cyan;Wouldn't it be nice to meet some new people? I have an idea...",
       "^cyan;I think we could benefit from making new friends. I have a plan."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "^green;Build a home^white;, and inside ^green;place ^orange;3^green; <tag>.^white; Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!",
       "Can you build a home^white;, and inside ^green;place ^orange;3^green; <tag>.^white; Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!^white; I'm excited!"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "Thank you! Now we have a new local resident! Isn't that exciting?",
       "Success! I hope our new neighbour enjoys their home. Thanks for your help!"
     ]

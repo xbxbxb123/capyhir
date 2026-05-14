@@ -1,10 +1,10 @@
 [
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/skadvtest", "value":  {
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/capyhir", "value":  {
 		"default" : [
 			"I'll heal you whenever we're on the ship."
 		]
 	}},
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/fieldBenefit/skadvtest", "value": {
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/fieldBenefit/capyhir", "value": {
 		"default" : [
         	"You look hurt. Let me help you out!",
             "Let me help you out!",
@@ -12,7 +12,7 @@
             "Hey, I can heal you! Just hold still!"
 		]
 	}},
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/combatBenefit/skadvtest", "value": {
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/combatBenefit/capyhir", "value": {
 		"default" : [
 			"You look like you could use some healing!",
 			"Let me help you out!",
@@ -22,7 +22,7 @@
 		]
 	}},
 
-	{"op": "add", "path": "/items/skadvtest",
+	{"op": "add", "path": "/items/capyhir",
 		"value": [
 			[0, [
 				{
@@ -37,7 +37,7 @@
 						"npchammer",
 						"npcshortsword",
 						"npcspear",
-						"skadvtest_bow2",
+						"capyhir_bow2",
 						"npcassaultrifle",
 						"npcbow",
 						"npcfirebow",

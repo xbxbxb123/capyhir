@@ -1,4 +1,4 @@
 [
-  {"op": "add","path": "/skadvtestDescription","value": "I should take this Matter Manipulator... I might need it to get out of here alive."},
-  {"op": "add","path": "/pickedUpParameters/skadvtestDescription","value": "I'd better move."}
+  {"op": "add","path": "/capyhirDescription","value": "I should take this Matter Manipulator... I might need it to get out of here alive."},
+  {"op": "add","path": "/pickedUpParameters/capyhirDescription","value": "I'd better move."}
 ]

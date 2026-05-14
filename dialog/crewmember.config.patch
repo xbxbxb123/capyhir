@@ -1,5 +1,5 @@
 [
-	{"op": "add", "path": "/converse/skadvtest", "value": {
+	{"op": "add", "path": "/converse/capyhir", "value": {
 			"default": [
 				"Adventure ahoy!",
 				"Flying through space, running into misadventure... This is the life!",

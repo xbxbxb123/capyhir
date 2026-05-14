@@ -1,6 +1,6 @@
 [
-  {"op": "add","path": "/skadvtestDescription","value": "A smelting furnace. Looks hot."},
-  {"op": "add","path": "/upgradeStages/0/itemSpawnParameters/skadvtestDescription","value": "A smelting furnace. Looks hot."},
-  {"op": "add","path": "/upgradeStages/1/itemSpawnParameters/skadvtestDescription","value": "An industrial furnace, hot enough to smelt titanium and other materials."},
-  {"op": "add","path": "/upgradeStages/2/itemSpawnParameters/skadvtestDescription","value": "An atomic furnace. This device is powerful enough to create refined ore and alloys."}
+  {"op": "add","path": "/capyhirDescription","value": "A smelting furnace. Looks hot."},
+  {"op": "add","path": "/upgradeStages/0/itemSpawnParameters/capyhirDescription","value": "A smelting furnace. Looks hot."},
+  {"op": "add","path": "/upgradeStages/1/itemSpawnParameters/capyhirDescription","value": "An industrial furnace, hot enough to smelt titanium and other materials."},
+  {"op": "add","path": "/upgradeStages/2/itemSpawnParameters/capyhirDescription","value": "An atomic furnace. This device is powerful enough to create refined ore and alloys."}
 ]

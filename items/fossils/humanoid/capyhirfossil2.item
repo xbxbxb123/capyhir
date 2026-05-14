@@ -1,0 +1,21 @@
+{
+  "itemName" : "capyhirfossil2",
+  "rarity" : "Uncommon",
+  "itemTags" : ["fossil"],
+
+  "description" : "A fossilised capyhir torso.",
+  "category" : "mediumFossil",
+
+  "shortdescription" : "capyhir Torso",
+  "race" : "capyhir",
+  "price" : 0,
+
+  "inventoryIcon" : "capyhirfossil2icon.png",
+
+  "displayImage" : "/objects/fossils/humanoidfossils/fossilcapyhir/capyhirtorsodisplay.png",
+  "displayoffset" :[0, 0],
+
+  "fossilSetName" : "capyhirSkeleton",
+  "setIndex" : 2,
+  "setCount" : 3
+}

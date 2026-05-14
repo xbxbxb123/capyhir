@@ -1,5 +1,5 @@
 [
-	{"op": "add", "path": "/beacon/skadvtest", "value": {
+	{"op": "add", "path": "/beacon/capyhir", "value": {
 			"default": [
 				"You called?",
 				"Is there something you need?",
@@ -9,7 +9,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/rent/skadvtest", "value": {
+	{"op": "add", "path": "/rent/capyhir", "value": {
 			"default" : [
 				"I thought you might like this!",
 				"Here's a gift, for all your help.",

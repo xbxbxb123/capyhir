@@ -1,5 +1,5 @@
 [
-	{"op": "add", "path": "/merchantStart/skadvtest", "value": {
+	{"op": "add", "path": "/merchantStart/capyhir", "value": {
 			"default": [
 				"Welcome to my shop!",
 				"See anything you like?",
@@ -7,7 +7,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/merchantEnd/skadvtest", "value": {
+	{"op": "add", "path": "/merchantEnd/capyhir", "value": {
 			"default": [
 				"See you next time!",
 				"Come again.",
@@ -19,21 +19,21 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/follow/skadvtest", "value": {
+	{"op": "add", "path": "/follow/capyhir", "value": {
 			"default": [
 				"Come with me, we can do business in my shop!",
 				"Come in, come in and see what I've got!"
 			]
 		}
 	},
-	{"op": "add", "path": "/welcome/skadvtest", "value": {
+	{"op": "add", "path": "/welcome/capyhir", "value": {
 			"default": [
 				"Welcome to my store!",
 				"Here we are. Now, how can I help you?"
 			]
 		}
 	},
-	{"op": "add","path": "/tout/skadvtest", "value": {
+	{"op": "add","path": "/tout/capyhir", "value": {
 			"default": [
 				"Goods for sale!",
 				"Hey you, come check out my amazing wares!",
@@ -42,7 +42,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/tagCriteria/skadvtest", "value": {
+	{"op": "add", "path": "/tagCriteria/capyhir", "value": {
 			"default": [
 				"Have you stolen something from my shop?",
 				"The arrangement of my shop has changed, this isn't alright...",
@@ -50,7 +50,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/enclosedArea/skadvtest", "value": {
+	{"op": "add", "path": "/enclosedArea/capyhir", "value": {
 			"default": [
 				"Can you fix the walls? The damage is putting off customers.",
 				"I need the wall fixed if I want customers to shop here. Can you help?",
@@ -58,7 +58,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/otherDeed/skadvtest", "value": {
+	{"op": "add", "path": "/otherDeed/capyhir", "value": {
 			"default": [
 				"I thought this was single tenancy!? I can't share the store!",
 				"Are you trying to have someone move in here?!",
@@ -66,7 +66,7 @@
 			]
 		}
 	},
-	{"op": "add","path": "/severe/skadvtest", "value": {
+	{"op": "add","path": "/severe/capyhir", "value": {
 			"default": [
 				"I can't sell my wares in these conditions!",
 				"These are unacceptable working conditions...",
@@ -74,7 +74,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/final/skadvtest", "value": {
+	{"op": "add", "path": "/final/capyhir", "value": {
 			"default": [
 				"I've had enough of this!",
 				"That's it, I give up. Time to take my business elsewhere!",
@@ -82,7 +82,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/beacon/skadvtest", "value": {
+	{"op": "add", "path": "/beacon/capyhir", "value": {
 			"default": [
 				"You called?",
 				"Is there something you need to buy?",
@@ -90,7 +90,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/rent/skadvtest", "value": {
+	{"op": "add", "path": "/rent/capyhir", "value": {
 			"default": [
 				"I thought you might like this.",
 				"Here's a gift for all your help with my shop!",

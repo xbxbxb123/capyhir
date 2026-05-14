@@ -1,5 +1,5 @@
 [
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/offer/skadvtest", "value": {
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/offer/capyhir", "value": {
 		"default" : [
 			"I need to lay low! Please don't turn me in, can I join your crew instead?",
 			"I'm a good person, really! Please, let me stow away on your ship!",
@@ -10,7 +10,7 @@
 			"I really need to stay somewhere to hide. Say, do you have a ship? I have an offer for you..."
 		]
 	}},
-	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/skadvtest", "value": {
+	{"op": "add", "path": "/scriptConfig/dialog/crewmember/roleDescription/capyhir", "value": {
 		"default" : [
 			"Thanks for giving me a place to hide away! If you need a little extra muscle in your travels, I'll be here!",
 			"I can definitely lie low here. Thanks a bunch - if you ever want some backup I'll be here to help!",
@@ -19,7 +19,7 @@
 		]
 	}},
 
-	{"op": "add", "path": "/items/skadvtest",
+	{"op": "add", "path": "/items/capyhir",
 		"value": [
 			[0, [
 				{

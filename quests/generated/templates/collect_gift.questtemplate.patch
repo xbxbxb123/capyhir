@@ -1,20 +1,20 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/capyhir","value": [
       "The first thing I'll need is one ^orange;<item>.^white; ^orange;<target>^white; has an extra one, and owes me a favor. ^green;Could you run over to <target.pronoun.object> and pick it up?",
       "To begin we'll need one ^orange;<item>.^white; I know ^orange;<target>^white; got a new one recently, ^green;you should ask if we can use it."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "Next, I need you to ^green;retreive my ^orange;<item>^white;. I loaned it to ^orange;<target>^white; last week, ^green;could you ask for it back?^white;  We're going to need it for the next phase of my plan.",
       "Now I'll need you to get one ^orange;<item>. <target>^white; has the biggest collection around; if you ^green;ask nicely^white; I'm sure <target.pronoun.subject> wouldn't mind parting with just one."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/last/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/last/capyhir","value": [
       "You got the <item> from <target>, excellent work! This next step would have been tough without it.",
       "Perfect, I'll have to give <target> my thanks. This is exactly what we need."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "Thanks for getting what we needed from <target>. Now to move things forward.",
       "That is one good looking <item>. Thanks for picking this up."
     ]

@@ -1,5 +1,5 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["friendskadvtest",[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["friendcapyhir",[
         "friend",
         "colleague",
         "cousin",
@@ -9,7 +9,7 @@
       ]
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["activityskadvtest",[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["activitycapyhir",[
         "discuss a dream I had about <activity2>",
         "brainstorm plans for a musical about <activity2>",
         "discuss our love of <activity2>",
@@ -21,7 +21,7 @@
       ]
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["appreciationskadvtest",[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["appreciationcapyhir",[
         "<targetNpcType.pronoun.capitalSubject> and I are very grateful!",
         "Take this as a token of my appreciation.",
         "I'm sure <targetNpcType.pronoun.copulative> relieved to have you around!",
@@ -30,16 +30,16 @@
     ]
   },
 
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
       "^cyan;My friend <targetNpcType> hasn't arrived yet."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
-      "My <friendskadvtest> ^orange;<targetNpcType>^white; was meant to meet me so we could <activityskadvtest> <earlier>. <targetNpcType.pronoun.capitalSubject> probably got lost getting here - the last place I saw <targetNpcType.pronoun.object> was the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you go there and bring <targetNpcType.pronoun.object> back here to me^white;?"
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
+      "My <friendcapyhir> ^orange;<targetNpcType>^white; was meant to meet me so we could <activitycapyhir> <earlier>. <targetNpcType.pronoun.capitalSubject> probably got lost getting here - the last place I saw <targetNpcType.pronoun.object> was the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you go there and bring <targetNpcType.pronoun.object> back here to me^white;?"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
-      "Thanks for bringing <targetNpcType> back here! <appreciationskadvtest>"
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
+      "Thanks for bringing <targetNpcType> back here! <appreciationcapyhir>"
     ]
   }
 ]

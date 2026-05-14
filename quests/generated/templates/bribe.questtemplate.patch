@@ -1,26 +1,26 @@
 [
-    {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+    {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
             "^cyan;I want to win <target>'s favour, and I have a way to make it happen...",
             "^cyan;I want <target> to owe me a favour... I have a plan..."
         ]
     },
-    {"op": "add","path": "/scriptConfig/generatedText/text/next/skadvtest","value": [
+    {"op": "add","path": "/scriptConfig/generatedText/text/next/capyhir","value": [
             "Next ^green;I need to win over ^orange;<target>^white;, and it just so happens that ^green;<target.pronoun.subject> would love your ^orange;<gift>^white;! Is that bribery? Sure, but I don't think <target.pronoun.subject>'ll mind...",
             "How do you feel about bribery? I figure that if you were to ^green;gift that ^orange;<gift>^green; to ^orange;<target>^white; on my behalf, <target.pronoun.subject> would owe me a favour! Can you go and ^green;give it to <target.pronoun.object> for me?"
         ]
     },
-    {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+    {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
             "Finally, my plan comes together! ^green;Take that ^orange;<gift>^green; and generously give it to ^orange;<target>^green; on my behalf^white;. <target.pronoun.capitalSubject> will be indebted to me for my kind act of bribery!",
             "All that is left to do is to ^green;bribe ^orange;<target>^green; with that ^orange;<gift>^white; that I know <target.pronoun.subject> wants. It is completely ethical - Honest!"
         ]
     },
-    {"op": "add","path": "/scriptConfig/generatedText/completionText/next/skadvtest","value": [
+    {"op": "add","path": "/scriptConfig/generatedText/completionText/next/capyhir","value": [
             "<target> took the bribe? Great! This will be useful for my plans.",
             "Wow, bribery is easy! <target> owing me a favour is useful."
         ]
     },
 
-    {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+    {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
             "My plan worked! Bribery sure is easy. Now I can call upon <target> to help me whenever I need <target.pronoun.object>. Thanks for your help!",
             "Now <target> owes me a favour! That was easier than I thought. Thank you for helping me with my genius plan!"
         ]

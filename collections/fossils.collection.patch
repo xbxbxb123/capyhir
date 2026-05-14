@@ -1,1 +1,1 @@
-[{"op": "add", "path": "/collectables/skadvtestSkeleton", "value": {"order": 24, "title": "skadvtest Fossil", "description": "A fossilised skadvtest.", "icon": "/items/fossils/humanoid/humanfossilhead.png"}}]
+[{"op": "add", "path": "/collectables/capyhirSkeleton", "value": {"order": 24, "title": "capyhir Fossil", "description": "A fossilised capyhir.", "icon": "/items/fossils/humanoid/humanfossilhead.png"}}]

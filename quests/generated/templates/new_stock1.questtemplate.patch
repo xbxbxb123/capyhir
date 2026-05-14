@@ -1,15 +1,15 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
       "^cyan;My store might be more popular if I had more things to sell. I have a plan.",
       "^cyan;I have a plan to expand my store's range of products. Can you help?"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "Travelling merchant <target> arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide me with the new stock I require in exchange for ^orange;<tradedItems>^white;. Could you ^green;take the goods to ^orange;<target>^white;?",
       "Perfect timing! Apparently <target>, a travelling merchant, has just arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Can you ^green;find ^orange;<target>^green; and trade the ^orange;<tradedItems>^green; in return for the goods I need?"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "Thank you! If you ever find yourself in need of a new <newItem>, I now have plenty in stock!",
       "Thanks to you I now stock <newItem>! My customers will be so pleased!"
     ]

@@ -1,5 +1,5 @@
 [
-	{"op": "add", "path": "/reattack/skadvtest", "value": {
+	{"op": "add", "path": "/reattack/capyhir", "value": {
 			"default": [
 				"You again!",
 				"You returned!",
@@ -8,7 +8,7 @@
 				"So you came back."
 			]
 	}},
-	{"op": "add", "path": "/attack/skadvtest", "value": {
+	{"op": "add", "path": "/attack/capyhir", "value": {
 			"default": [
 				"You're dead meat!",
 				"Let's get this over with!",
@@ -23,7 +23,7 @@
 				"You won't know what hit you!"
 			]
 	}},
-	{"op": "add", "path": "/killedTarget/skadvtest", "value": {
+	{"op": "add", "path": "/killedTarget/capyhir", "value": {
 			"default": [
 				"Never mess with me!",
 				"Victory!",
@@ -39,7 +39,7 @@
 				"That's what you get!"
 			]
 	}},
-	{"op": "add", "path": "/lostTarget/skadvtest", "value": {
+	{"op": "add", "path": "/lostTarget/capyhir", "value": {
 			"default": [
 				"I will get you one day!",
 				"It's not over!",
@@ -49,7 +49,7 @@
 				"Just you wait!"
 			]
 	}},
-	{"op": "add", "path": "/outOfSight/skadvtest", "value": {
+	{"op": "add", "path": "/outOfSight/capyhir", "value": {
 			"default": [
 				"Sneaky! This is sneaky! How did you disappear?",
 				"They're getting away!",
@@ -59,7 +59,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/cantReach/skadvtest", "value": {
+	{"op": "add", "path": "/cantReach/capyhir", "value": {
 			"default": [
 				"Get over here!",
 				"Come here!",
@@ -69,7 +69,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/cheerOn/skadvtest", "value": {
+	{"op": "add", "path": "/cheerOn/capyhir", "value": {
 			"default": [
 				"I have a plan!",
 				"Get them!",

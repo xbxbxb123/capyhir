@@ -1,5 +1,5 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["friendskadvtest",[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["friendcapyhir",[
         "friend",
         "colleague",
         "cousin",
@@ -9,12 +9,12 @@
       ]
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["activityskadvtest",[
-        "brainstorm ideas for a <activityskadvtest2>",
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["activitycapyhir",[
+        "brainstorm ideas for a <activitycapyhir2>",
         "hang out",
         "swordfight",
         "stand around awkwardly together",
-        "talk about a <activityskadvtest2> we like",
+        "talk about a <activitycapyhir2> we like",
         "discuss our dreams",
         "learn to craft things together",
         "play cards",
@@ -27,7 +27,7 @@
       ]
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["activityskadvtest2",[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["activitycapyhir2",[
         "book",
         "film",
         "meal",
@@ -35,7 +35,7 @@
       ]
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["appreciationskadvtest",[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["appreciationcapyhir",[
       "<victim.pronoun.capitalSubject> and I are very grateful!",
       "You're my hero! Take this as a token of my appreciation.",
       "I'm sure <victim.pronoun.copulative> relieved to have you around!",
@@ -44,19 +44,19 @@
   ]
   },
 
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
-      "^cyan;I'm worried about my <friendskadvtest> <victimNpcType>.",
-      "^cyan;My <friendskadvtest> has gone missing."
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
+      "^cyan;I'm worried about my <friendcapyhir> <victimNpcType>.",
+      "^cyan;My <friendcapyhir> has gone missing."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
-      "My <friendskadvtest> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activityskadvtest>, but they haven't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?",
-      "I was out <activity> with my <friendskadvtest> ^orange;<victimNpcType>^white; <earlier>, when <separated>. I saw some ^orange;<enemy>^white; sneaking around and worry <victimNpcType> has been <kidnapped>! I last saw <victimNpcType.pronoun.object> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Can you go and find <victimNpcType.pronoun.object>^white;?"
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
+      "My <friendcapyhir> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activitycapyhir>, but they haven't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?",
+      "I was out <activity> with my <friendcapyhir> ^orange;<victimNpcType>^white; <earlier>, when <separated>. I saw some ^orange;<enemy>^white; sneaking around and worry <victimNpcType> has been <kidnapped>! I last saw <victimNpcType.pronoun.object> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Can you go and find <victimNpcType.pronoun.object>^white;?"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
-      "Thanks for rescuing <victimNpcType> from those <enemy>. <appreciationskadvtest>",
-      "You rescued <victimNpcType>? <appreciationskadvtest>"
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
+      "Thanks for rescuing <victimNpcType> from those <enemy>. <appreciationcapyhir>",
+      "You rescued <victimNpcType>? <appreciationcapyhir>"
     ]
   }
 ]

@@ -1,19 +1,19 @@
 [
-	{ "op" : "add", "path" : "/items/skadvtest",
+	{ "op" : "add", "path" : "/items/capyhir",
 		"value" : [
 			[0, [
 				{
 					"chest" : [
-						{ "name" : "skadvtestconceptchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
-						{ "name" : "skadvtestcoolchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
-						{ "name" : "skadvtestsweatervestchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
-						{ "name" : "skadvtestworkoutchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } }
+						{ "name" : "capyhirconceptchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+						{ "name" : "capyhircoolchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+						{ "name" : "capyhirsweatervestchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+						{ "name" : "capyhirworkoutchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } }
 					],
 					"legs" : [
-						{ "name" : "skadvtestconceptlegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
-						{ "name" : "skadvtestcoollegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
-						{ "name" : "skadvtestsweatervestlegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
-						{ "name" : "skadvtestworkoutlegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } }
+						{ "name" : "capyhirconceptlegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+						{ "name" : "capyhircoollegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+						{ "name" : "capyhirsweatervestlegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+						{ "name" : "capyhirworkoutlegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } }
 					]
 				}
 			] ]

@@ -1,5 +1,5 @@
 [
-	{"op": "add", "path": "/helpme/skadvtest", "value": {
+	{"op": "add", "path": "/helpme/capyhir", "value": {
 			"default": [
 				"Oh no! Help me!",
 				"Help!",
@@ -11,7 +11,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/safe/skadvtest", "value": {
+	{"op": "add", "path": "/safe/capyhir", "value": {
 			"default": [
 				"Phew, I think I got away.",
 				"Thank goodness that's over.",

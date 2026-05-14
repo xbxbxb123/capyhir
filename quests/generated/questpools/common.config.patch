@@ -1,4 +1,4 @@
 [
-  {"op": "add", "path": "/quests/kill_npcs/managerPlugins/1/pluginConfig/species/-", "value": "skadvtest"},
-  {"op": "add", "path": "/quests/kill_npc/managerPlugins/1/pluginConfig/species/-", "value": "skadvtest"}
+  {"op": "add", "path": "/quests/kill_npcs/managerPlugins/1/pluginConfig/species/-", "value": "capyhir"},
+  {"op": "add", "path": "/quests/kill_npc/managerPlugins/1/pluginConfig/species/-", "value": "capyhir"}
 ]

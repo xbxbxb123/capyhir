@@ -1,15 +1,15 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
       "^cyan;I would feel safer with some protection around here. Can you help recruit a guard?",
       "^cyan;We could do with more protection around here. I have a plan..."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "Finally, ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like and ^green;put this ^orange;Colony Deed^green; in it^white;! Don't forget to ^green;add a^orange; light source^white;!",
       "All that's left is to ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like, and ^green;put this ^orange;Colony Deed^green; up too^white;. Don't forget to ^green;add a ^orange;light source^white; as well!"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "Vacancy filled! That didn't take long! Thanks for helping ensure my safety!",
       "We have a new guard! I feel safer already. Thanks for your help!"
     ]

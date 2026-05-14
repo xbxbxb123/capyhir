@@ -1,16 +1,16 @@
 [
 	{ "op" : "add",
-		"path" : "/speciesShips/skadvtest",
+		"path" : "/speciesShips/capyhir",
 		"value" : [
-		    "/ships/skadvtest/skadvtestt0.structure",
-			"/ships/skadvtest/skadvtestt1.structure",
-			"/ships/skadvtest/skadvtestt2.structure",
-			"/ships/skadvtest/skadvtestt3.structure",
-			"/ships/skadvtest/skadvtestt4.structure",
-			"/ships/skadvtest/skadvtestt5.structure",
-			"/ships/skadvtest/skadvtestt6.structure",
-			"/ships/skadvtest/skadvtestt7.structure",
-			"/ships/skadvtest/skadvtestt8.structure"
+		    "/ships/capyhir/capyhirt0.structure",
+			"/ships/capyhir/capyhirt1.structure",
+			"/ships/capyhir/capyhirt2.structure",
+			"/ships/capyhir/capyhirt3.structure",
+			"/ships/capyhir/capyhirt4.structure",
+			"/ships/capyhir/capyhirt5.structure",
+			"/ships/capyhir/capyhirt6.structure",
+			"/ships/capyhir/capyhirt7.structure",
+			"/ships/capyhir/capyhirt8.structure"
 		]
 	}
 ]

@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/scriptConfig/chatSounds/skadvtest",
+    "path": "/scriptConfig/chatSounds/capyhir",
     "value": {
       "male" : [
         "/sfx/humanoid/human_chatter_male1.ogg",

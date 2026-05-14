@@ -1,5 +1,5 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestappreciation",[
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["capyhirappreciation",[
         "Thanks for your help!",
         "Great! We don't need more trouble round here.",
         "Who needs guards with you around, huh? Thanks for your help!",
@@ -8,19 +8,19 @@
     ]
   },
 
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
       "^cyan;An outlaw has escaped to our planet!",
       "^cyan;I've found out there's a dangerous outlaw nearby..."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "An outlaw is on the loose! Rumour has it ^orange;<adjective> <enemy.name> the <enemy>^white; is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Apparently <enemy.pronoun.copulativePast> been on the run ever since <crime>. ^green;Can you go and <request>^white; and make things safer around here?",
       "We have a <problem>! Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
-      "Did you put a stop to <enemy.name>'s crime spree? <skadvtestappreciation>",
-      "Did you manage to defeat <enemy.name>? <skadvtestappreciation>"
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
+      "Did you put a stop to <enemy.name>'s crime spree? <capyhirappreciation>",
+      "Did you manage to defeat <enemy.name>? <capyhirappreciation>"
     ]
   }
 ]

@@ -1,45 +1,45 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
       "^cyan;I've decided that it would be quite nice to have <target> obey me, in case I ever need <target.pronoun.object> for something. I have just the plan to make this happen...",
       "^cyan;I want <target>'s respect, but friendship takes too long. I have a better idea..."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/capyhir","value": [
       "First, I need ^orange;<target>'s^white; obedience. If you could ^green;go and point a big ^orange;<item> ^green;at <target.pronoun.object> and strike up a conversation, ^white;I'm sure <target.pronoun.subject>'ll get the message...",
       "First, I need ^orange;<target>^white; to bend to my every whim. This means <target.pronoun.subject> needs to fear me, of course! ^green;Talk to <target.pronoun.object> whilst pointing a nice ^orange;<item>^green; in <target.pronoun.possessiveDet> face ^white;and I'm sure <target.pronoun.subject>'ll know to do what I say in future..."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/next/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/next/capyhir","value": [
       "The next part of my plan requires ^orange;<target>'s^white; obedience. There's no better way to achieve this than to threaten <target.pronoun.possessiveDet> life! ^green;Hold a big ^orange;<item> ^green;and go talk to <target.pronoun.object>^white;. <target.pronoun.capitalSubject>'ll get the message.",
       "Next, I'm going to need ^orange;<target>^white; to do anything I say. That will be easy if <target.pronoun.subject> fears me. Can you ^green;go and point a nice ^orange;<item> ^green;at <target.pronoun.object> and start up a conversation on my behalf?^white; That should work just fine!"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/last/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/last/capyhir","value": [
       "Finally, my plan comes together. Did you know ^orange;<target>^white; is afraid of ^orange;<item>s?^white; You should ^green;point one at <target.pronoun.object> and strike up a conversation ^white;- <target.pronoun.capitalSubject>'ll be so scared that <target.pronoun.subject>'ll do anything I say! It's a perfect plan.",
       "My plan is finally coming together! But I still need ^orange;<target>'s^white; utter obedience. If <target.pronoun.subject> fears me <target.pronoun.subject>'ll help me out with anything I need in the future! Can you ^green; point a nice ^orange;<item> ^green;at <target.pronoun.object> and strike up a conversation? ^white;<target.pronoun.capitalSubject>'ll know I sent you, don't worry."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "^orange;<target>,^white; as it turns out, is particularly afraid of ^orange;<item>s. ^white;This is perfect! ^green;Go and point one at <target.pronoun.object> and start a conversation ^white;- I'm sure <target.pronoun.subject>'ll know I sent you! <target.pronoun.capitalSubject>'ll be so scared, <target.pronoun.subject>'ll do anything I say in future!",
       "I've been informed that ^orange;<target> ^white;is afraid of ^orange;<item>s! ^green;Could you go and threaten <target.pronoun.object> with one for me?^white; I'm sure <target.pronoun.subject>'ll swear to obey me with a big <item> pointed at <target.pronoun.object>!"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/capyhir","value": [
       "It worked! <target> now utterly fears me, and will probably do whatever I ask! Manipulating others is so easy...",
       "The intimidation worked! <target> is willing to help me do whatever I ask. This will be useful, I'm sure. Thanks for your help!"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/next/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/next/capyhir","value": [
       "Now <target> will do anything I say! Intimidation is pretty easy, huh? This will come in handy soon enough...",
       "Now that <target> fears for <target.pronoun.possessiveDet> life, <target.pronoun.subject>'ll do whatever I say! I should intimidate people more often!"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/last/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/last/capyhir","value": [
       "It worked! Now <target> will do whatever I say. This will be useful one day. Thank you for your... Assistance.",
       "Why get people to like you when they can fear you instead? Thanks for your help! I'm sure <target> will come in useful to me one day..."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "Thanks for your assistance. Now <target> will do anything I say in future! That's going to be useful...",
       "Social manipulation is easy! <target> is now loyal to me, through fear. Thank you for helping make this happen."
     ]

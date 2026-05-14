@@ -1,20 +1,20 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/capyhir","value": [
       "To begin with we need to find ourselves a good ^orange;<item>. ^white;I happen to know that ^orange;<target> ^white;has got one, so you could ^green;pick it up directly from <target.pronoun.object>.^white; <target.pronoun.capitalSubject> already knows <target.pronoun.possessiveDet> place, so <target.pronoun.subject> wouldn't dare to disobey me. ",
       "We need to get our hands on one ^orange;<item>.^white; Luckily, ^orange;<target>^white; who lives nearby ^green;should have one.^white; Even better, <target.pronoun.subject> already knows who's the boss around here, so I know ^green;<target.pronoun.subject>'ll oblige you^white;."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "We have to collect one ^orange;<item>^white; from somewhere. I believe ^orange;<target>^white; has one, and <target.pronoun.subject> just so happens to owe me a favour. Will you ^green;pick up the ^orange;<item>^green; from <target.pronoun.object>?",
       "Having a good ^orange;<item> ^white;is necessary for our plan. I'm pretty sure ^orange;<target>^white; has one, so why don't you ^green;go and collect it? ^white;Don't worry, <target.pronoun.subject> wouldn't dare disobey..."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/capyhir","value": [
       "Well done! This <item> will come in handy to us very soon. ",
       "This <item> is perfect! You've done well."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "Perfect. I knew <target> wouldn't dare kick up a fuss. ",
       "Good job collecting our <item>! I knew <target> would be useful to keep around..."
     ]

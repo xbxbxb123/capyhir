@@ -1,5 +1,5 @@
 [
-	{"op": "add", "path": "/greeting/skadvtest", "value": {
+	{"op": "add", "path": "/greeting/capyhir", "value": {
 			"default": [
 				"Sup?",
 				"Hello.",
@@ -34,7 +34,7 @@
 			]
 		}
 	},
-	{"op": "add", "path": "/converse/skadvtest", "value": {
+	{"op": "add", "path": "/converse/capyhir", "value": {
 			"generic" : [
 				"There are some funny species out here.",
 				"Oh my god, I'm bored. I want to do something fun.",
@@ -284,8 +284,8 @@
 		}
 	},
 
-// VANILLA RACES TALKING TO skadvtest PLAYER
-	{"op": "add", "path": "/converse/apex/skadvtest", "value": [
+// VANILLA RACES TALKING TO capyhir PLAYER
+	{"op": "add", "path": "/converse/apex/capyhir", "value": [
 			"You are the first human that I've met.",
 			"It is bad news for everybody, what happened to Earth.",
 			"No pictures survive, but our people looked almost human once.",
@@ -303,7 +303,7 @@
 			"I could pass for human if I had a good hair day."
 		]
 	},
-	{"op": "add", "path": "/converse/avian/skadvtest", "value": [
+	{"op": "add", "path": "/converse/avian/capyhir", "value": [
 			"Hello, human.",
 			"I'm so sorry about your homeworld.",
 			"Is it chilly without feathers?",
@@ -325,7 +325,7 @@
 			"It's always nice to see a human."
 		]
 	},
-	{"op": "add", "path": "/converse/floran/skadvtest", "value": [
+	{"op": "add", "path": "/converse/floran/capyhir", "value": [
 			"Meatman!",
 			"Sssilly human.",
 			"Floran heard human meat tastess good.",
@@ -352,7 +352,7 @@
 			"Floran want to show human how to use ssspear properly."
 		]
 	},
-	{"op": "add", "path": "/converse/glitch/skadvtest", "value": [
+	{"op": "add", "path": "/converse/glitch/capyhir", "value": [
 			"Disgusted. Fleshy!",
 			"Sympathetic. I heard what happened to Earth, just terrible.",
 			"Plaintive. I wish that I was in the Protectorate...",
@@ -370,7 +370,7 @@
 			"Disturbed. You wobble when you walk."
 		]
 	},
-	{"op": "add", "path": "/converse/human/skadvtest", "value": [
+	{"op": "add", "path": "/converse/human/capyhir", "value": [
 			"The thing I miss most about Earth? Silent discos.",
 			"It's always nice to see another human.",
 			"I can't believe what happened to Earth...",
@@ -388,7 +388,7 @@
 			"What if we're really just shaved Apex?"
 		]
 	},
-	{"op": "add", "path": "/converse/hylotl/skadvtest", "value": [
+	{"op": "add", "path": "/converse/hylotl/capyhir", "value": [
 			"Oh look, a human.",
 			"Hello, human.",
 			"I've seen nothing of human culture, it saddens me that I might now never have the chance.",
@@ -406,7 +406,7 @@
 			"I was so sorry to hear your planet was destroyed."
 		]
 	},
-	{"op": "add", "path": "/converse/novakid/skadvtest", "value": [
+	{"op": "add", "path": "/converse/novakid/capyhir", "value": [
 			"You got a look o' sadness about you. You lose somethin' precious recently?",
 			"What kinda folk are you? You ain't even glowing... Not that I discriminate, o' course.",
 			"Do all your kind dress like you do?",

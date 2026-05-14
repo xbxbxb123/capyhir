@@ -1,9 +1,0 @@
-{
-  "name" : "tabby1",
-  "category" : "skadvtestpet",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "tabby1.png"
-  }
-}

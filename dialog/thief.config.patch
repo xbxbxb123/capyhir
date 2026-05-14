@@ -1,5 +1,5 @@
 [
-	{"op": "add", "path": "/accuse/skadvtest", "value": {
+	{"op": "add", "path": "/accuse/capyhir", "value": {
 			"default": [
 				"Hey! That stuff doesn't belong to you!",
 				"What're you playing at? You can't go about stealing!",
@@ -10,7 +10,7 @@
 		}
 	},
 
-	{"op": "add", "path": "/alert/skadvtest", "value": {
+	{"op": "add", "path": "/alert/capyhir", "value": {
 			"default": [
 				"Stop pilfering! Guards, help!",
 				"Guards! Catch this terrible robber!",

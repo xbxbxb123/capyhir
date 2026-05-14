@@ -1,20 +1,20 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/text/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/first/capyhir","value": [
       "Firstly, I need you to ^green;plant ^orange;<seedList>.^white; Water them regularly, then when they're ready, ^green;gather the ^orange;<cropList>^green; and bring your bountiful harvest to me.",
       "First, I need <cropList> but it's out of season. You can garden right?  Here's ^orange;<seedList>^green; for you to plant,^white; when you've ^green;harvested ^orange;<cropList>^green; could you bring them to me?"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "Now I need you to ^green;plant ^orange;<seedList>^white;. Care for them until they're ready, then ^green;harvest the ^orange;<cropList>^green; for me.",
       "Next, we need some produce. I have ^orange;<seedList>,^white; but no place to grow things. Would you mind ^green;growing them and bringing me ^orange;<cropList>^white;?"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/first/capyhir","value": [
       "Ah, beautifully ripe! You have a real talent for this.",
       "Wow, you may have a future in farming! <cropList> fresh out of the ground! This will work wonderfully."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
       "Thank you. These look a little on the small side, but that's what you get for going organic!",
       "<cropList> exactly as requested. Nice work! Time to put this produce to good use!"
     ]

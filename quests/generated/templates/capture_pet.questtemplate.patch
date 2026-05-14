@@ -1,5 +1,5 @@
 [
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestappreciation1",
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["capyhirappreciation1",
       [
         "You brought me a <monster>?! Thank you!",
         "You managed to catch me a <monster>? Wonderful!",
@@ -8,7 +8,7 @@
       ]
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["skadvtestappreciation2",
+  {"op": "add","path": "/scriptConfig/generatedText/fluff/-","value": ["capyhirappreciation2",
       [
         "I hope this <tradedMonster> serves you well!",
         "I'm sure this <tradedMonster> will be happier with you!",
@@ -18,18 +18,18 @@
     ]
   },
 
-  {"op": "add","path": "/scriptConfig/generatedText/goalText/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/goalText/capyhir","value": [
       "^cyan;I want a <monster> to keep me company.",
       "^cyan;If I had my own <monster>, I'd be so happy!"
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+  {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
       "Someone gave me a <tradedMonster>, but I <reason>. I'd be happier with a pet ^orange;<monster>^white;. ^green;Could you catch me one with this ^orange;Capture Pod^white;?\nIf you're not sure where to start, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
       "I tried to capture myself a pet ^orange;<monster>^white; <earlier>, but missed and caught this <tradedMonster> instead. You <request> - ^green;can you take this ^orange;Capture Pod^green; and catch me a <monster>^white;? I'll give you my <tradedMonster> in return.\nIf you're not sure where to start, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>."
     ]
   },
-  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
-      "<skadvtestappreciation1> <skadvtestappreciation2>"
+  {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
+      "<capyhirappreciation1> <capyhirappreciation2>"
     ]
   }
 ]

@@ -1,0 +1,40 @@
+{
+	"type" : "capyhirvisitor1",
+	"baseType" : "outpostvisitor",
+
+	"displayTitle" : "capyhir Visitor",
+	
+	"scriptConfig" : {
+		"dialog" : {
+			"converse" : {
+				"default" : {
+					"default" : [
+						"I'm just visiting."
+					]
+				}
+			}
+		}
+	},
+	
+	"matchColorIndices" : true,
+	"items" : {
+		"override" : [
+			[0, [
+					{
+						"chest" : [
+							{ "name" : "capyhirconceptchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+							{ "name" : "capyhircoolchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+							{ "name" : "capyhirsweatervestchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+							{ "name" : "capyhirworkoutchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } }
+						],
+						"legs" : [
+							{ "name" : "capyhirconceptlegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+							{ "name" : "capyhircoollegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+							{ "name" : "capyhirsweatervestlegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } },
+							{ "name" : "capyhirworkoutlegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } }
+						]
+					}
+			] ]
+		]
+	}
+}

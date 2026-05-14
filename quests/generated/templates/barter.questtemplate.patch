@@ -1,9 +1,9 @@
 [
-    {"op": "add","path": "/scriptConfig/generatedText/text/default/skadvtest","value": [
+    {"op": "add","path": "/scriptConfig/generatedText/text/default/capyhir","value": [
             "Next, travelling merchant ^orange;<target>^white; arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide us with the <receivedItems> we require in exchange for the ^orange;<givenItems>^white;. ^green;Could you take the goods to <target>^white;?"
         ]
     },
-    {"op": "add","path": "/scriptConfig/generatedText/completionText/default/skadvtest","value": [
+    {"op": "add","path": "/scriptConfig/generatedText/completionText/default/capyhir","value": [
             "Thank you! The <receivedItems> will be useful for the next part of my plan..."
         ]
     }
