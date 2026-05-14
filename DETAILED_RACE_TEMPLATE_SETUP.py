@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 from os.path import join
 
@@ -21,7 +23,7 @@ print("--------------------------------------------------")
 print()
 print("PLEASE WAIT...")
 
-search = ""
+search = "skadvtest"
 extensions = (".patch", ".species", ".animation", ".config", ".structure", ".recipe", ".monstertype", ".monsterpart", ".object", ".frames", ".activeitem", ".npctype", ".statuseffect", ".legs", ".chest", ".head", ".cinematic", ".item", ".tenant")
 
 for root, dirs, files in os.walk(".", topdown=False):
