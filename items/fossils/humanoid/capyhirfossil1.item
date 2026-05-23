@@ -3,10 +3,10 @@
   "rarity" : "Uncommon",
   "itemTags" : ["fossil"],
 
-  "description" : "A fossilised capyhir skull.",
+  "description" : "A fossilised Capyhir skull.",
   "category" : "mediumFossil",
 
-  "shortdescription" : "capyhir Skull",
+  "shortdescription" : "Capyhir Skull",
   "race" : "capyhir",
   "price" : 50,
 
@@ -14,8 +14,8 @@
 
   "completeSetDescriptions" : {
     "price" : 1500,
-    "shortdescription" : "capyhir Fossil",
-    "description" : "A fossilised capyhir, the dominant species of Earth."
+    "shortdescription" : "Capyhir Fossil",
+    "description" : "A fossilised capyhir, the bones were made of chitin-cellulose composite."
   },
 
   "displayImage" : "/objects/fossils/humanoidfossils/fossilcapyhir/capyhirskulldisplay.png",

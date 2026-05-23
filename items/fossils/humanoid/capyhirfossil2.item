@@ -3,10 +3,10 @@
   "rarity" : "Uncommon",
   "itemTags" : ["fossil"],
 
-  "description" : "A fossilised capyhir torso.",
+  "description" : "A fossilised Capyhir torso.",
   "category" : "mediumFossil",
 
-  "shortdescription" : "capyhir Torso",
+  "shortdescription" : "Capyhir Torso",
   "race" : "capyhir",
   "price" : 0,
 

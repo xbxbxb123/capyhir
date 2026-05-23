@@ -3,10 +3,10 @@
   "rarity" : "Uncommon",
   "itemTags" : ["fossil"],
 
-  "description" : "A fossilised pair of capyhir legs.",
+  "description" : "A fossilised pair of Capyhir legs.",
   "category" : "mediumFossil",
 
-  "shortdescription" : "capyhir Legs",
+  "shortdescription" : "Capyhir Legs",
   "race" : "capyhir",
   "price" : 0,
 

@@ -3,22 +3,22 @@
 
   "charCreationTooltip" : {
       "title" : "Capyhir",
-      "subTitle" : "O8",
+      "subTitle" : "CuAl5",
       "description" : "A brand new race in the universe of Starbound..."
   },
 
-  "nameGen" : [ "/species/capyhirmalenamegen.config:names", "/species/capyhirfemalenamegen.config:names" ],
+  "nameGen" : [ "/species/capyhirnamegen.config:names", "/species/capyhirnamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
   //charGenTextLabels and humanoidOverrides taken from Neki mod and modified
   "charGenTextLabels": [
-    "Coat colour",
-    "Hair style",
-    "Sleeves",
-    "Outfit",
-    "Eyes/Collar",
-    "Fluff colour",
-    "Sleeve Colour",
-    "Outfit colour",
+    "Skin colour",
+    "Wool style",
+    "Shirt",
+    "Pants",
+    "Resin Color",
+    "Wool colour",
+    "Shirt Colour",
+    "Pants colour",
     "CAPYHIR",
     "Idle pose"
   ],
@@ -116,7 +116,12 @@
       "name" : "male",
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/capyhirmale.png",
-      "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64" ],
+      "hair" : [ 
+        "fluffy1", "fluffy2", "fluffy3", "fluffy4", "fluffy5", "fluffy6", "fluffy7", "fluffy8", 
+        "short1", "short2", "short3", "short4", "short5", "short6", "short7", "short8", 
+        "long1", "long2", "long3", "long4", "long5", "long6", "long7", "long8", 
+        "spiky1", "spiky2", "spiky3", "spiky4", "spiky5", "spiky6", "bald1", "bald2" 
+      ],
       "shirt" : [ "capyhirconceptchest", "capyhircoolchest", "capyhirsweatervestchest", "capyhirworkoutchest" ],
       "pants" : [ "capyhirconceptlegs", "capyhircoollegs", "capyhirsweatervestlegs", "capyhirworkoutlegs"],
       "facialHairGroup" : "",
@@ -128,7 +133,12 @@
       "name" : "female",
       "image" : "/interface/title/female.png",
       "characterImage" : "/interface/title/capyhirfemale.png",
-      "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11", "fem12", "fem13", "fem14", "fem15", "fem16", "fem17", "fem18", "fem19", "fem20", "fem21", "fem22", "fem23", "fem24", "fem25", "fem26", "fem27", "fem28", "fem29", "fem30", "fem31", "fem32", "fem33", "fem34", "fem35", "fem36", "fem37", "fem38", "fem39", "fem40", "fem41", "fem42", "fem43", "fem44", "fem45", "fem46", "fem47", "fem48", "fem49", "fem50", "fem51", "fem52", "fem53", "fem54", "fem55", "fem56", "fem57", "fem58", "fem59", "fem60", "fem61", "fem62", "fem63", "fem64" ],
+      "hair" : [ 
+        "fluffy1", "fluffy2", "fluffy3", "fluffy4", "fluffy5", "fluffy6", "fluffy7", "fluffy8", 
+        "short1", "short2", "short3", "short4", "short5", "short6", "short7", "short8", 
+        "long1", "long2", "long3", "long4", "long5", "long6", "long7", "long8", 
+        "spiky1", "spiky2", "spiky3", "spiky4", "spiky5", "spiky6", "bald1", "bald2" 
+      ],
       "shirt" : [ "capyhirconceptchest", "capyhircoolchest", "capyhirsweatervestchest", "capyhirworkoutchest" ],
       "pants" : [ "capyhirconceptlegs", "capyhircoollegs", "capyhirsweatervestlegs", "capyhirworkoutlegs"],
       "facialHairGroup" : "",
@@ -170,7 +180,7 @@
   ],
 
   "undyColor": [
-  // Eye, Collar and Accessory Color
+  // Eye, Horn and Accessory Color (resin/blood color)
     {"F32200": "505050", "DC1F00": "343434", "BE1B00": "202020", "951500": "000000"},  // Black
     {"F32200": "6b6182", "DC1F00": "3d3d5d", "BE1B00": "2c3047", "951500": "17232d"},  // Lilac Blue
     {"F32200": "a97e39", "DC1F00": "81572a", "BE1B00": "56341b", "951500": "2c160a"},  // Brown
@@ -248,18 +258,6 @@
     {"F7E7B2": "f9d7cd", "D9C189": "f6baa2", "A38D59": "cc9582", "735E3A": "946254"},  // Cantaloupe
     {"F7E7B2": "f6f0e4", "D9C189": "e3d8ca", "A38D59": "bbb29f", "735E3A": "7a7469"},  // Milk
     {"F7E7B2": "f5ede3", "D9C189": "f9d3a9", "A38D59": "d3a57c", "735E3A": "a06e53"},  // Latte
-    {"F7E7B2": "ffffff", "D9C189": "e6e6e6", "A38D59": "b4b4b4", "735E3A": "797979"},  // White
-  // Vanilla
-    {"F7E7B2": "838383", "D9C189": "555555", "A38D59": "383838", "735E3A": "151515"},  // Black
-    {"F7E7B2": "b5b5b5", "D9C189": "808080", "A38D59": "555555", "735E3A": "303030"},  // Gray
-    {"F7E7B2": "e6e6e6", "D9C189": "b6b6b6", "A38D59": "7b7b7b", "735E3A": "373737"},  // White
-    {"F7E7B2": "f4988c", "D9C189": "d93a3a", "A38D59": "932625", "735E3A": "601119"},  // Red
-    {"F7E7B2": "ffd495", "D9C189": "ea9931", "A38D59": "af4e00", "735E3A": "6e2900"},  // Orange
-    {"F7E7B2": "ffffa7", "D9C189": "e2c344", "A38D59": "a46e06", "735E3A": "642f00"},  // Yellow
-    {"F7E7B2": "b2e89d", "D9C189": "51bd3b", "A38D59": "247824", "735E3A": "144216"},  // Green
-    {"F7E7B2": "96cbe7", "D9C189": "5588d4", "A38D59": "344495", "735E3A": "1a1c51"},  // Blue
-    {"F7E7B2": "d29ce7", "D9C189": "a451c4", "A38D59": "6a2284", "735E3A": "320c40"},  // Purple
-    {"F7E7B2": "eab3db", "D9C189": "d35eae", "A38D59": "97276d", "735E3A": "59163f"},  // Pink
-    {"F7E7B2": "ccae7c", "D9C189": "a47844", "A38D59": "754c23", "735E3A": "472b13"}   // Brown
+    {"F7E7B2": "ffffff", "D9C189": "e6e6e6", "A38D59": "b4b4b4", "735E3A": "797979"}  // White
   ]
 }
