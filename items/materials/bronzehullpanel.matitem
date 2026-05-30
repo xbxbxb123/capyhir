@@ -1,0 +1,15 @@
+{
+  "itemName" : "bronzehullpanel",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "bronzehullpanel.png",
+  "description" : "An advanced Bronze alloy used by the Capyhir.",
+  "glitchDescription" : "Observant. This appears to be some form of bronze.",
+  "floranDescription" : "Shiny sssmooth fancy metal.",
+  "novakidDescription" : "Some thick metal plating, looks tough an' fancy.",
+  "shortdescription" : "Bronze Panel",
+
+  "materialId" : 7410,
+  "learnBlueprintsOnPickup" : [ "bronzehullpanel" ]
+}

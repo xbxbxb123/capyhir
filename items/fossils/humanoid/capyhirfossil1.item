@@ -26,5 +26,5 @@
   "setCount" : 3,
   "setCollectables" : { "fossils" : "capyhirSkeleton" },
 
-  "completeFossilIcon" : "/objects/fossils/humanoidfossils/capyhiroidskeletonicon.png"
+  "completeFossilIcon" : "/objects/fossils/humanoidfossils/humanoidskeletonicon.png"
 }

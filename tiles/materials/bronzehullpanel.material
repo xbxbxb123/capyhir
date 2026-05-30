@@ -1,0 +1,25 @@
+{
+  "materialId" : 7410,
+  "materialName" : "bronzehullpanel",
+  "particleColor" : [124, 145, 86, 255],
+  "itemDrop" : "bronzehullpanel",
+
+  "description" : "An advanced Bronze alloy used by the Capyhir.",
+  "glitchDescription" : "Observant. This appears to be some form of bronze.",
+  "floranDescription" : "Shiny sssmooth fancy metal.",
+  "novakidDescription" : "Some thick metal plating, looks tough an' fancy.",
+  "shortdescription" : "Bronze Panel",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 20,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "bronzehullpanel.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 5001
+  }
+}
