@@ -1,0 +1,94 @@
+{
+  "objectName" : "capyhirmodulamp",
+  "colonyTags" : ["capyhir","light"],
+  "rarity" : "Common",
+  "category" : "light",
+  "price" : 45,
+  "printable" : false,
+  "description" : "These large electric lanterns generate a pleasantly warm light.",
+  "shortdescription" : "Capyhir Modular Lamp",
+  "race" : "generic",
+
+  "apexDescription" : "An effective bronze lantern with a geometric.",
+  "avianDescription" : "An electric lantern with a neat geometric design.",
+  "floranDescription" : "Big shiny device for lighting Floran's path.",
+  "glitchDescription" : "Appreciative. These lights are splendid.",
+  "humanDescription" : "A bright light source. I probably shouldn't stare into it.",
+  "hylotlDescription" : "An encouraging shimmer that reminds me of bright days.",
+  "novakidDescription" : "It's a fancy electric lantern that won't run out of juice.",
+
+  "statusEffects" : [ ],
+
+  "lightColor" : [248, 160, 160],
+
+  "flickerPeriod" : 0.8,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.0,
+  "flickerIntensityVariance" : 0.025,
+
+  "inventoryIcon" : "capyhirmodulampicon.png",
+  "orientations" : [
+
+    {
+      "image" : "capyhirmodulamp.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.8,
+
+      "spaces" : [ [0, 0], [1, 0], [0, 1], [1, 1] ],
+      "fgAnchors" : [ [0, -1], [1, -1] ]
+    },
+
+    {
+      "image" : "capyhirmodulamp.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.8,
+
+      "spaces" : [ [0, 0], [1, 0], [0, 1], [1, 1] ],
+      "fgAnchors" : [ [0, 2], [1, 2] ]
+    },
+
+    {
+      "image" : "capyhirmodulamp.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.8,
+
+      "spaces" : [ [0, 0], [1, 0], [0, 1], [1, 1] ],
+      "bgAnchors" : [ [0, 1], [1, 1] ]
+    },
+
+    {
+      "image" : "capyhirmodulamp.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.8,
+
+      "spaces" : [ [0, 0], [1, 0], [0, 1], [1, 1] ],
+      "bgAnchors" : [ [0, 0], [1, 0] ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_quiet.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+
+  "animation" : "capyhirmodulamp.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+  "animationParts" : {
+    "bg" : "capyhirmodulamp.png",
+    "fg" : "capyhirmodulamplit.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ]
+}

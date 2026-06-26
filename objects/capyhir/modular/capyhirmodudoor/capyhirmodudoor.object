@@ -1,0 +1,56 @@
+{
+  "objectName" : "capyhirmodudoor",
+  "colonyTags" : ["door","capyhir"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "door",
+  "price" : 170,
+  "description" : "A tough bronze door of capyhir design.",
+  "shortdescription" : "Modular Door",
+  "race" : "capyhir",
+
+  "apexDescription" : "This door is fairly secure.",
+  "avianDescription" : "A pretty sturdy door.",
+  "floranDescription" : "Floran hide behind door. Jump out. Ssstab!",
+  "glitchDescription" : "Approving. A flawless door.",
+  "humanDescription" : "An stylish bronze door.",
+  "hylotlDescription" : "A robust bronze door.",
+  "novakidDescription" : "This door sure is swish.",
+
+  "inventoryIcon" : "capyhirmodudooricon.png",
+   
+  "orientations" : [
+    {
+      "dualImage" : "capyhirmodudoor.png:default",
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "capyhirmodudoor.png"
+  },
+  "animationPosition" : [-20, 0],
+
+  "inputNodes" : [ [-1, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

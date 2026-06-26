@@ -18,7 +18,7 @@
   "humanDescription" : "The Captain's chair. The person sitting here decides where the ship goes!",
   "hylotlDescription" : "Sitting on the Captain's chair allows me to fly this ship.",
   "novakidDescription" : "The Captain's chair. The guy who sits here decides where the ship goes! That's me!",
-  "capyhirDescription" : "The Captain's chair. The person sitting here decides where the ship goes!",
+  "capyhirDescription" : "Sitting on the Captain's chair allows me to fly the ship. Where to explore next?",
 
   "inventoryIcon" : "captainschairicon.png",
   "orientations" : [

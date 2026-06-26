@@ -3,7 +3,7 @@
 
   "charCreationTooltip" : {
       "title" : "Capyhir",
-      "subTitle" : "Cu9Al",
+      "subTitle" : "CuAl",
       "description" : "A brand new race in the universe of Starbound..."
   },
 
@@ -107,6 +107,11 @@
       { "item" : "feroziumstaff" },
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" },
+
+// Furniture Table 1
+// Special Capyhir items
+      { "item" : "bronzehullpanel" },
+      { "item" : "capyhirbed" },
 
 // Furniture Table 2
       { "item" : "capyhirstoragelocker" },

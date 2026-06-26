@@ -6,7 +6,7 @@
   "interactAction" : "OpenAiInterface",
 
   "category" : "decorative",
-  "lightColor" : [61, 88, 102],
+  "lightColor" : [112, 64, 64],
   "lightPosition" : [-1, 0],
 
   "description" : "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
@@ -20,7 +20,7 @@
   "humanDescription" : "This station allows me to communicate with SAIL.",
   "hylotlDescription" : "This console allows me to communicate with SAIL.",
   "novakidDescription" : "This here station lets me talk with SAIL.",
-  "capyhirDescription" : "This station allows me to communicate with SAIL.",
+  "capyhirDescription" : "The ship's thinking machine.",
 
   "inventoryIcon" : "capyhirtechstationicon.png",
   "orientations" : [

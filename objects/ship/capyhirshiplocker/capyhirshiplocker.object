@@ -9,7 +9,7 @@
   "description" : "A locker. Store some stuff, why don't you?",
   "shortdescription" : "Ship Locker",
   "race" : "capyhir",
-  "lightColor" : [61, 88, 102],
+  "lightColor" : [112, 64, 64],
 
   "apexDescription" : "I wonder if there are any secrets inside this locker?",
   "avianDescription" : "Could there be anything of value within this locker?",
@@ -18,7 +18,7 @@
   "humanDescription" : "A ship's locker.",
   "hylotlDescription" : "Perhaps something useful is inside this locker.",
   "novakidDescription" : "A locker, for puttin' things in.",
-  "capyhirDescription" : "A locker, for puttin' things in.",
+  "capyhirDescription" : "A ship's locker.",
 
   "inventoryIcon" : "shiplockericon.png",
   "orientations" : [

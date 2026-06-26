@@ -1,0 +1,56 @@
+{
+  "objectName" : "capyhirmoduchair",
+  "colonyTags" : ["capyhir"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A comfortable bronze folding chair. This Capyhir design uses standard parts for easy construction and repair.",
+  "shortdescription" : "Capyhir Modular Chair",
+  "race" : "capyhir",
+  "category" : "furniture",
+  "price" : 80,
+
+  "apexDescription" : "A pretty comfortable chair. I'm happy with it.",
+  "avianDescription" : "A highly decent place to sit.",
+  "floranDescription" : "Floran sssit on shiny chair and think about hunting.",
+  "glitchDescription" : "Surprised. This chair can support my weight. Barely.",
+  "humanDescription" : "Nicer than your average folding chair.",
+  "hylotlDescription" : "It's surprisingly elegant and comfortable for a folding chair.",
+  "novakidDescription" : "This kinda chair makes me wanna put my feet up!",
+  "capyhirDescription" : "A soft folding chair that reminds me of home. It uses standard parts for easy construction and repair.",
+
+  "inventoryIcon" : "capyhirmoduchairicon.png",
+
+  "sitCoverImage" : "/objects/capyhir/modular/capyhirmoduchair/capyhirmoduchaircover.png",
+
+  "orientations" : [
+    {
+      "image" : "capyhirmoduchair.png:<color>",
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "sitPosition" : [2, 19],
+      "sitAngle": 10,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "image" : "capyhirmoduchair.png:<color>",
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, 0],
+      "sitPosition" : [-6, 19],
+      "sitAngle": 10,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false
+  
+}

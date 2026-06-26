@@ -7,7 +7,7 @@
   "description" : "A broken FTL fuel hatch. This won't do!",
   "shortdescription" : "Broken FTL Fuel Hatch",
   "race" : "capyhir",
-  "lightColor" : [46, 66, 77],
+  "lightColor" : [112, 64, 64],
 
   "apexDescription" : "Converts fuel into freedom.",
   "avianDescription" : "Let's load it up and take to the stars!",

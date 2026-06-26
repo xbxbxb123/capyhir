@@ -1,0 +1,59 @@
+{
+  "objectName" : "capyhirmodubed",
+  "colonyTags" : ["misc","capyhir"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A typical Capyhir style bed made of modular parts. The design accomodates for antlered folk.",
+  "shortdescription" : "Capyhir Bed",
+  "race" : "capyhir",
+  "category" : "furniture",
+  "price" : 180,
+
+  "apexDescription" : "This bed appears to be able to fold for storage.",
+  "avianDescription" : "Is this a chair or a bed? Or both?",
+  "floranDescription" : "Floran likes this better than other bag bed.",
+  "glitchDescription" : "Analytical. This bed appears to be able to fold for storage. Perhaps it is also a chair?",
+  "humanDescription" : "It's like a sleeping bag and a recliner all in one. Cozy!",
+  "hylotlDescription" : "This strange bed seems remarkably practical. It appears to have been handmade as well.",
+  "novakidDescription" : "Awful strange bed. 'Least it looks mighty comfortable.",
+  "capyhirDescription" : "Reclining beds, a favorite among Capyhir for their portability and comfort to our anatomy.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitOrientation" : "lay",
+  "sitCoverImage" : "/objects/capyhir/modular/capyhirmodubed/capyhirmodubedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed2"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "capyhirmodubedicon.png",
+  "orientations" : [
+    {
+      "image" : "capyhirmodubed.png:<color>",
+      "direction" : "right",
+
+      "imagePosition" : [-24, 0],
+      "sitPosition" : [-8, 16],
+      "sitAngle": 60,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "image" : "capyhirmodubed.png:<color>",
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-24, 0],
+      "sitPosition" : [-16, 16],
+      "sitAngle": 60,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
