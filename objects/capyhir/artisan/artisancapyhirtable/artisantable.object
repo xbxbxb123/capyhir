@@ -1,0 +1,35 @@
+{
+  "objectName" : "artisantable",
+  "colonyTags" : ["commerce","artisan"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A beautiful artisan table.",
+  "shortdescription" : "artisan Table",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 145,
+
+  "apexDescription" : "This artisan table is exceptionally sleek.",
+  "avianDescription" : "An immensely sturdy artisan table.",
+  "floranDescription" : "Table good enough for Floran to ssslice meatsss.",
+  "glitchDescription" : "Approving. A flawless artisan table.",
+  "humanDescription" : "A cool artisan table.",
+  "hylotlDescription" : "A table that outdoes even Hylotl craftsmanship.",
+  "novakidDescription" : "I could throw some mighty artisan parties with a table like this.",
+
+  "inventoryIcon" : "artisantableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "artisantable.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

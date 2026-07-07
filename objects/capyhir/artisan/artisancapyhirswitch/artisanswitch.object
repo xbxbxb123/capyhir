@@ -1,6 +1,6 @@
 {
-  "objectName" : "executiveswitch",
-  "colonyTags" : ["wired","executive"],
+  "objectName" : "artisanswitch",
+  "colonyTags" : ["wired","artisan"],
   "printable" : false,
   "rarity" : "Common",
   "category" : "wire",
@@ -9,8 +9,8 @@
   "flickerDistance" : 0.2,
   "flickerStrength" : 0.05,
   "flickerTiming" : 4,
-  "description" : "An executive console. So exquisite, you can't help but treat it with respect.",
-  "shortdescription" : "Executive Console",
+  "description" : "An artisan console. So exquisite, you can't help but treat it with respect.",
+  "shortdescription" : "artisan Console",
 
   "apexDescription" : "This console offers a large degree of control.",
   "avianDescription" : "A useful console with a large holographic interface.",
@@ -21,10 +21,10 @@
   "novakidDescription" : "This console sure is somethin', I just wanna use it.",
 
   "race" : "generic",
-  "inventoryIcon" : "executiveswitchicon.png",
+  "inventoryIcon" : "artisanswitchicon.png",
   "orientations" : [
     {
-      "dualImage" : "executiveswitch.png:<color>.<frame>",
+      "dualImage" : "artisanswitch.png:<color>.<frame>",
       "imagePosition" : [-8, 0],
       "renderLayer" : "Object+1",
 
@@ -48,7 +48,7 @@
     }
   },
   "animationParts" : {
-    "switch" : "executiveswitch.png"
+    "switch" : "artisanswitch.png"
   },
   "animationPosition" : [-8, 0],
 

@@ -1,0 +1,49 @@
+{
+  "objectName" : "artisancurtaindoor",
+  "colonyTags" : ["capyhir","artisan","door"],
+  "rarity" : "Common",
+  "category" : "door",
+  "price" : 95,
+  "description" : "jsdlfkjsdlfkj animating moving cloth is a nightmare aaaa",
+  "shortdescription" : "Curtain Door",
+  "race" : "capyhir",
+
+  "apexDescription" : "cloth door",
+  "avianDescription" : "cloth door",
+  "floranDescription" : "cloth door",
+  "glitchDescription" : "cloth door",
+  "humanDescription" : "cloth door",
+  "hylotlDescription" : "cloth door",
+  "novakidDescription" : "cloth door",
+  "capyhirDescription" : "cloth door",
+
+  "inventoryIcon" : "artisancurtaindooricon.png",
+
+  "tooltipKind" : "door",
+  "largeImage" : "artisancurtaindoor.png:right.4",
+   
+  "orientations" : [
+    {
+      "image" : "artisancurtaindoor.png:closed",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+
+      "spaces" : [ [0, -1], [0, 0], [0, 1], [0, 2], [0, 3] ],
+      "anchors" : [ "background" ],
+
+      "direction" : "right"
+    }
+  ],
+
+  "animation" : "artisancurtaindoor.animation",
+  "animationCustom" : { },
+  "animationParts" : {
+    "door" : "artisancurtaindoor.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "scripts" : [ "artisancurtaindoor.lua" ],
+  "scriptDelta" : 10,
+
+  "detectArea" : [ [0, -2], [1, 2] ]
+}

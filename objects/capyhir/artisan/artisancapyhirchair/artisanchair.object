@@ -1,10 +1,10 @@
 {
-  "objectName" : "executivechair",
-  "colonyTags" : ["misc","executive"],
+  "objectName" : "artisanchair",
+  "colonyTags" : ["misc","artisan"],
   "printable" : false,
   "rarity" : "Common",
-  "description" : "An executive chair. You'll never want to stand again.",
-  "shortdescription" : "Executive Chair",
+  "description" : "An artisan chair. You'll never want to stand again.",
+  "shortdescription" : "artisan Chair",
   "race" : "generic",
   "category" : "furniture",
   "price" : 105,
@@ -17,10 +17,10 @@
   "hylotlDescription" : "A masterfully crafted chair. So comfortable.",
   "novakidDescription" : "This here chair is great for taking a load off.",
 
-  "inventoryIcon" : "executivechairicon.png",
+  "inventoryIcon" : "artisanchairicon.png",
   "orientations" : [
     {
-      "image" : "executivechair.png:<color>",
+      "image" : "artisanchair.png:<color>",
       "direction" : "left",
       "flipImages" : true,
 
@@ -32,7 +32,7 @@
 
     },
     {
-      "image" : "executivechair.png:<color>",
+      "image" : "artisanchair.png:<color>",
       "direction" : "right",
 
       "imagePosition" : [-8, 0],

@@ -1,10 +1,10 @@
 {
-  "objectName" : "executivebed",
-  "colonyTags" : ["executive"],
+  "objectName" : "artisanroundbed",
+  "colonyTags" : ["artisan"],
   "printable" : false,
   "rarity" : "Common",
-  "description" : "An executive bed. For the sleep of your life.",
-  "shortdescription" : "Executive Bed",
+  "description" : "An artisan bed. For the sleep of your life.",
+  "shortdescription" : "artisan Bed",
   "race" : "generic",
   "category" : "furniture",
   "price" : 200,
@@ -22,17 +22,17 @@
   "sitPosition" : [-9, 19],
   "sitOrientation" : "lay",
   "sitAngle" : 90,
-  "sitCoverImage" : "/objects/themed/executive/executivebed/executivebedcover.png",
+  "sitCoverImage" : "/objects/themed/artisan/artisanroundbed/artisanroundbedcover.png",
   "sitEmote" : "sleep",
   "sitStatusEffects" : [
     "bed4"
   ],
   "sitEffectEmitters" : [ "sleepbubbles" ],
 
-  "inventoryIcon" : "executivebedicon.png",
+  "inventoryIcon" : "artisanroundbedicon.png",
   "orientations" : [
     {
-      "dualImage" : "executivebed.png:<color>",
+      "dualImage" : "artisanroundbed.png:<color>",
 
       "imagePosition" : [-24, 0],
       "frames" : 1,
